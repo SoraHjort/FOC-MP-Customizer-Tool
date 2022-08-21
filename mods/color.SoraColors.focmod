@@ -1,0 +1,6728 @@
+[Colors FOCCustomizer]
+Overwrite=True
+
+;======================= Autobot Colors ==========================
+
+[AutobotSwatch101 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch101
+Primary_R=240
+Primary_G=240
+Primary_B=247
+Secondary_R=255
+Secondary_G=0
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch102 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch102
+Primary_R=241
+Primary_G=238
+Primary_B=238
+Secondary_R=161
+Secondary_G=17
+Secondary_B=13
+FactionRestriction=0
+
+[AutobotSwatch113.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch113.Swap
+Secondary_R=207
+Secondary_G=2
+Secondary_B=2
+Primary_R=255
+Primary_G=255
+Primary_B=255
+FactionRestriction=0
+
+[AutobotSwatch101.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch101.Swap
+Secondary_R=240
+Secondary_G=240
+Secondary_B=247
+Primary_R=255
+Primary_G=0
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch102.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch102.Swap
+Secondary_R=241
+Secondary_G=238
+Secondary_B=238
+Primary_R=161
+Primary_G=17
+Primary_B=13
+FactionRestriction=0
+
+[AutobotSwatch113 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch113
+Primary_R=207
+Primary_G=2
+Primary_B=2
+Secondary_R=255
+Secondary_G=255
+Secondary_B=255
+FactionRestriction=0
+
+[AutobotSwatch103 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch103
+Primary_R=204
+Primary_G=204
+Primary_B=204
+Secondary_R=255
+Secondary_G=0
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch104 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch104
+Primary_R=166
+Primary_G=155
+Primary_B=155
+Secondary_R=121
+Secondary_G=0
+Secondary_B=2
+FactionRestriction=0
+
+[AutobotSwatch114.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch114.Swap
+Secondary_R=207
+Secondary_G=2
+Secondary_B=2
+Primary_R=114
+Primary_G=109
+Primary_B=109
+FactionRestriction=0
+
+[AutobotSwatch103.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch103.Swap
+Secondary_R=204
+Secondary_G=204
+Secondary_B=204
+Primary_R=255
+Primary_G=0
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch104.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch104.Swap
+Secondary_R=166
+Secondary_G=155
+Secondary_B=155
+Primary_R=121
+Primary_G=0
+Primary_B=2
+FactionRestriction=0
+
+[AutobotSwatch114 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch114
+Primary_R=207
+Primary_G=2
+Primary_B=2
+Secondary_R=114
+Secondary_G=109
+Secondary_B=109
+FactionRestriction=0
+
+[AutobotSwatch130 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch130
+Primary_R=225
+Primary_G=0
+Primary_B=5
+Secondary_R=225
+Secondary_G=0
+Secondary_B=17
+FactionRestriction=0
+
+[AutobotSwatch110.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch110.Swap
+Secondary_R=92
+Secondary_G=20
+Secondary_B=21
+Primary_R=189
+Primary_G=175
+Primary_B=175
+FactionRestriction=0
+
+[AutobotSwatch115.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch115.Swap
+Secondary_R=186
+Secondary_G=2
+Secondary_B=2
+Primary_R=47
+Primary_G=44
+Primary_B=42
+FactionRestriction=0
+
+[AutobotSwatch130.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch130.Swap
+Secondary_R=225
+Secondary_G=0
+Secondary_B=5
+Primary_R=225
+Primary_G=0
+Primary_B=17
+FactionRestriction=0
+
+[AutobotSwatch110 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch110
+Primary_R=92
+Primary_G=20
+Primary_B=21
+Secondary_R=189
+Secondary_G=175
+Secondary_B=175
+FactionRestriction=0
+
+[AutobotSwatch115 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch115
+Primary_R=186
+Primary_G=2
+Primary_B=2
+Secondary_R=47
+Secondary_G=44
+Secondary_B=42
+FactionRestriction=0
+
+[AutobotSwatch105 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch105
+Primary_R=245
+Primary_G=245
+Primary_B=245
+Secondary_R=60
+Secondary_G=83
+Secondary_B=34
+FactionRestriction=0
+
+[AutobotSwatch106 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch106
+Primary_R=245
+Primary_G=245
+Primary_B=245
+Secondary_R=11
+Secondary_G=137
+Secondary_B=255
+FactionRestriction=0
+
+[AutobotSwatch107 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch107
+Primary_R=255
+Primary_G=255
+Primary_B=255
+Secondary_R=55
+Secondary_G=66
+Secondary_B=121
+FactionRestriction=0
+
+[AutobotSwatch111 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch111
+Primary_R=60
+Primary_G=83
+Primary_B=34
+Secondary_R=245
+Secondary_G=245
+Secondary_B=245
+FactionRestriction=0
+
+[AutobotSwatch106.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch106.Swap
+Secondary_R=245
+Secondary_G=245
+Secondary_B=245
+Primary_R=11
+Primary_G=137
+Primary_B=255
+FactionRestriction=0
+
+[AutobotSwatch107.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch107.Swap
+Secondary_R=255
+Secondary_G=255
+Secondary_B=255
+Primary_R=55
+Primary_G=66
+Primary_B=121
+FactionRestriction=0
+
+[AutobotSwatch108 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch108
+Primary_R=201
+Primary_G=207
+Primary_B=205
+Secondary_R=109
+Secondary_G=83
+Secondary_B=37
+FactionRestriction=0
+
+[AutobotSwatch112 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch112
+Primary_R=79
+Primary_G=39
+Primary_B=26
+Secondary_R=144
+Secondary_G=164
+Secondary_B=189
+FactionRestriction=0
+
+[SoraColor.Light.Spacer01 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer01
+Primary_R=241
+Primary_G=238
+Primary_B=238
+Secondary_R=114
+Secondary_G=109
+Secondary_B=109
+FactionRestriction=0
+
+[AutobotSwatch109 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch109
+Primary_R=109
+Primary_G=83
+Primary_B=37
+Secondary_R=201
+Secondary_G=207
+Secondary_B=205
+FactionRestriction=0
+
+[AutobotSwatch112.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch112.Swap
+Secondary_R=79
+Secondary_G=39
+Secondary_B=26
+Primary_R=144
+Primary_G=164
+Primary_B=189
+FactionRestriction=0
+
+[SoraColor.Light.Spacer02 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer02
+Primary_R=114
+Primary_G=109
+Primary_B=109
+Secondary_R=241
+Secondary_G=238
+Secondary_B=238
+FactionRestriction=0
+
+[AutobotSwatch116 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch116
+Primary_R=206
+Primary_G=5
+Primary_B=11
+Secondary_R=25
+Secondary_G=140
+Secondary_B=211
+FactionRestriction=0
+
+[AutobotSwatch117 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch117
+Primary_R=254
+Primary_G=2
+Primary_B=2
+Secondary_R=0
+Secondary_G=28
+Secondary_B=255
+FactionRestriction=0
+
+[AutobotSwatch118 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch118
+Primary_R=131
+Primary_G=0
+Primary_B=0
+Secondary_R=0
+Secondary_G=28
+Secondary_B=255
+FactionRestriction=0
+
+[AutobotSwatch116.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch116.Swap
+Secondary_R=206
+Secondary_G=5
+Secondary_B=11
+Primary_R=25
+Primary_G=140
+Primary_B=211
+FactionRestriction=0
+
+[AutobotSwatch117.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch117.Swap
+Secondary_R=254
+Secondary_G=2
+Secondary_B=2
+Primary_R=0
+Primary_G=28
+Primary_B=255
+FactionRestriction=0
+
+[AutobotSwatch118.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch118.Swap
+Secondary_R=131
+Secondary_G=0
+Secondary_B=0
+Primary_R=0
+Primary_G=28
+Primary_B=255
+FactionRestriction=0
+
+[AutobotSwatch119 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch119
+Primary_R=232
+Primary_G=204
+Primary_B=0
+Secondary_R=26
+Secondary_G=26
+Secondary_B=26
+FactionRestriction=0
+
+[AutobotSwatch120 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch120
+Primary_R=200
+Primary_G=150
+Primary_B=0
+Secondary_R=26
+Secondary_G=26
+Secondary_B=26
+FactionRestriction=0
+
+[AutobotSwatch121 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch121
+Primary_R=150
+Primary_G=100
+Primary_B=0
+Secondary_R=26
+Secondary_G=26
+Secondary_B=26
+FactionRestriction=0
+[AutobotSwatch119.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch119.Swap
+Secondary_R=232
+Secondary_G=204
+Secondary_B=0
+Primary_R=26
+Primary_G=26
+Primary_B=26
+FactionRestriction=0
+
+[AutobotSwatch120.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch120.Swap
+Secondary_R=200
+Secondary_G=150
+Secondary_B=0
+Primary_R=26
+Primary_G=26
+Primary_B=26
+FactionRestriction=0
+
+[AutobotSwatch121.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch121.Swap
+Secondary_R=150
+Secondary_G=100
+Secondary_B=0
+Primary_R=26
+Primary_G=26
+Primary_B=26
+FactionRestriction=0
+
+[SoraColor.Light.Spacer03 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer03
+Primary_R=255
+Primary_G=0
+Primary_B=0
+Secondary_R=255
+Secondary_G=163
+Secondary_B=37
+FactionRestriction=0
+
+[AutobotSwatch128 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch128
+Primary_R=89
+Primary_G=67
+Primary_B=23
+Secondary_R=62
+Secondary_G=11
+Secondary_B=15
+FactionRestriction=0
+
+[AutobotSwatch123 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch123
+Primary_R=252
+Primary_G=236
+Primary_B=37
+Secondary_R=210
+Secondary_G=7
+Secondary_B=3
+FactionRestriction=0
+
+[SoraColor.Light.Spacer04 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer04
+Secondary_R=255
+Secondary_G=0
+Secondary_B=0
+Primary_R=255
+Primary_G=163
+Primary_B=37
+FactionRestriction=0
+
+[AutobotSwatch129 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch129
+Primary_R=62
+Primary_G=11
+Primary_B=15
+Secondary_R=89
+Secondary_G=67
+Secondary_B=23
+FactionRestriction=0
+
+[AutobotSwatch123.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch123.Swap
+Secondary_R=252
+Secondary_G=236
+Secondary_B=37
+Primary_R=210
+Primary_G=7
+Primary_B=3
+FactionRestriction=0
+
+[SoraColor.Light.Spacer05 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer05
+Primary_R=255
+Primary_G=128
+Primary_B=8
+Secondary_R=29
+Secondary_G=42
+Secondary_B=24
+FactionRestriction=0
+
+
+[AutobotSwatch122 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch122
+Primary_R=60
+Primary_G=83
+Primary_B=34
+Secondary_R=245
+Secondary_G=207
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch125 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch125
+Primary_R=40
+Primary_G=68
+Primary_B=32
+Secondary_R=29
+Secondary_G=42
+Secondary_B=24
+FactionRestriction=0
+
+[SoraColor.Light.Spacer06 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.Spacer06
+Secondary_R=255
+Secondary_G=128
+Secondary_B=8
+Primary_R=29
+Primary_G=42
+Primary_B=24
+FactionRestriction=0
+
+[AutobotSwatch122.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch122.Swap
+Secondary_R=60
+Secondary_G=83
+Secondary_B=34
+Primary_R=245
+Primary_G=207
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch125.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch125.Swap
+Secondary_R=40
+Secondary_G=68
+Secondary_B=32
+Primary_R=29
+Primary_G=42
+Primary_B=24
+FactionRestriction=0
+
+[AutobotSwatch124 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch124
+Primary_R=255
+Primary_G=128
+Primary_B=8
+Secondary_R=255
+Secondary_G=163
+Secondary_B=37
+FactionRestriction=0
+
+[AutobotSwatch126.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch126.Swap
+Secondary_R=127
+Secondary_G=80
+Secondary_B=41
+Primary_R=75
+Primary_G=82
+Primary_B=121
+FactionRestriction=0
+
+[AutobotSwatch127 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch127
+Primary_R=119
+Primary_G=82
+Primary_B=11
+Secondary_R=11
+Secondary_G=137
+Secondary_B=255
+FactionRestriction=0
+
+[AutobotSwatch124.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch124.Swap
+Secondary_R=255
+Secondary_G=128
+Secondary_B=8
+Primary_R=255
+Primary_G=163
+Primary_B=37
+FactionRestriction=0
+
+[AutobotSwatch126 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch126
+Primary_R=127
+Primary_G=80
+Primary_B=41
+Secondary_R=75
+Secondary_G=82
+Secondary_B=121
+FactionRestriction=0
+
+[AutobotSwatch127.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch127.Swap
+Secondary_R=119
+Secondary_G=82
+Secondary_B=11
+Primary_R=11
+Primary_G=137
+Primary_B=255
+FactionRestriction=0
+
+[AutobotSwatch1 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch1
+Primary_R=98
+Primary_G=1
+Primary_B=1
+Secondary_R=55
+Secondary_G=0
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch2 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch2
+Primary_R=98
+Primary_G=10
+Primary_B=10
+Secondary_R=55
+Secondary_G=5
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch3 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch3
+Primary_R=98
+Primary_G=29
+Primary_B=29
+Secondary_R=55
+Secondary_G=16
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch1.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch1.Swap
+Secondary_R=98
+Secondary_G=1
+Secondary_B=1
+Primary_R=55
+Primary_G=0
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch2.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch2.Swap
+Secondary_R=98
+Secondary_G=10
+Secondary_B=10
+Primary_R=55
+Primary_G=5
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch3.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch3.Swap
+Secondary_R=98
+Secondary_G=29
+Secondary_B=29
+Primary_R=55
+Primary_G=16
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch4 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch4
+Primary_R=98
+Primary_G=29
+Primary_B=1
+Secondary_R=55
+Secondary_G=16
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch5 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch5
+Primary_R=98
+Primary_G=42
+Primary_B=10
+Secondary_R=55
+Secondary_G=23
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch6 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch6
+Primary_R=98
+Primary_G=58
+Primary_B=29
+Secondary_R=55
+Secondary_G=32
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch4.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch4.Swap
+Secondary_R=98
+Secondary_G=29
+Secondary_B=1
+Primary_R=55
+Primary_G=16
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch5.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch5.Swap
+Secondary_R=98
+Secondary_G=42
+Secondary_B=10
+Primary_R=55
+Primary_G=23
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch6.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch6.Swap
+Secondary_R=98
+Secondary_G=58
+Secondary_B=29
+Primary_R=55
+Primary_G=32
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch7 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch7
+Primary_R=98
+Primary_G=98
+Primary_B=1
+Secondary_R=55
+Secondary_G=55
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch8 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch8
+Primary_R=98
+Primary_G=98
+Primary_B=10
+Secondary_R=55
+Secondary_G=55
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch9 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch9
+Primary_R=98
+Primary_G=98
+Primary_B=29
+Secondary_R=55
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+[AutobotSwatch7.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch7.Swap
+Secondary_R=98
+Secondary_G=98
+Secondary_B=1
+Primary_R=55
+Primary_G=55
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch8.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch8.Swap
+Secondary_R=98
+Secondary_G=98
+Secondary_B=10
+Primary_R=55
+Primary_G=55
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch9.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch9.Swap
+Secondary_R=98
+Secondary_G=98
+Secondary_B=29
+Primary_R=55
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch10 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch10
+Primary_R=29
+Primary_G=98
+Primary_B=1
+Secondary_R=16
+Secondary_G=55
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch11 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch11
+Primary_R=42
+Primary_G=98
+Primary_B=10
+Secondary_R=23
+Secondary_G=55
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch12 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch12
+Primary_R=58
+Primary_G=98
+Primary_B=29
+Secondary_R=32
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch10.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch10.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=1
+Primary_R=16
+Primary_G=55
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch11.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch11.Swap
+Secondary_R=42
+Secondary_G=98
+Secondary_B=10
+Primary_R=23
+Primary_G=55
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch12.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch12.Swap
+Secondary_R=58
+Secondary_G=98
+Secondary_B=29
+Primary_R=32
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch13 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch13
+Primary_R=1
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch14 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch14
+Primary_R=10
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch15 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch15
+Primary_R=29
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch13.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch13.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch14.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch14.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch15.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch15.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch16 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch16
+Primary_R=1
+Primary_G=98
+Primary_B=29
+Secondary_R=0
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch17 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch17
+Primary_R=10
+Primary_G=98
+Primary_B=42
+Secondary_R=5
+Secondary_G=55
+Secondary_B=23
+FactionRestriction=0
+
+[AutobotSwatch18 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch18
+Primary_R=29
+Primary_G=98
+Primary_B=58
+Secondary_R=16
+Secondary_G=55
+Secondary_B=32
+FactionRestriction=0
+
+[AutobotSwatch16.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch16.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=29
+Primary_R=0
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch17.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch17.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=42
+Primary_R=5
+Primary_G=55
+Primary_B=23
+FactionRestriction=0
+
+[AutobotSwatch18.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch18.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=58
+Primary_R=16
+Primary_G=55
+Primary_B=32
+FactionRestriction=0
+
+[AutobotSwatch19 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch19
+Primary_R=98
+Primary_G=1
+Primary_B=1
+Secondary_R=55
+Secondary_G=16
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch20 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch20
+Primary_R=98
+Primary_G=10
+Primary_B=10
+Secondary_R=55
+Secondary_G=23
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch21 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch21
+Primary_R=98
+Primary_G=29
+Primary_B=29
+Secondary_R=55
+Secondary_G=32
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch19.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch19.Swap
+Secondary_R=98
+Secondary_G=1
+Secondary_B=1
+Primary_R=55
+Primary_G=16
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch20.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch20.Swap
+Secondary_R=98
+Secondary_G=10
+Secondary_B=10
+Primary_R=55
+Primary_G=23
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch21.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch21.Swap
+Secondary_R=98
+Secondary_G=29
+Secondary_B=29
+Primary_R=55
+Primary_G=32
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch22 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch22
+Primary_R=98
+Primary_G=5
+Primary_B=1
+Secondary_R=27
+Secondary_G=55
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch23 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch23
+Primary_R=98
+Primary_G=17
+Primary_B=10
+Secondary_R=33
+Secondary_G=55
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch24 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch24
+Primary_R=98
+Primary_G=36
+Primary_B=29
+Secondary_R=40
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch22.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch22.Swap
+Secondary_R=98
+Secondary_G=5
+Secondary_B=1
+Primary_R=27
+Primary_G=55
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch23.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch23.Swap
+Secondary_R=98
+Secondary_G=17
+Secondary_B=10
+Primary_R=33
+Primary_G=55
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch24.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch24.Swap
+Secondary_R=98
+Secondary_G=36
+Secondary_B=29
+Primary_R=40
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch25 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch25
+Primary_R=98
+Primary_G=13
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=2
+FactionRestriction=0
+
+[AutobotSwatch26 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch26
+Primary_R=98
+Primary_G=26
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=9
+FactionRestriction=0
+
+[AutobotSwatch27 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch27
+Primary_R=98
+Primary_G=45
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=20
+FactionRestriction=0
+
+[AutobotSwatch25.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch25.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=2
+FactionRestriction=0
+
+[AutobotSwatch26.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch26.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=9
+FactionRestriction=0
+
+[AutobotSwatch27.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch27.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=20
+FactionRestriction=0
+
+[AutobotSwatch28 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch28
+Primary_R=98
+Primary_G=24
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=50
+FactionRestriction=0
+
+[AutobotSwatch29 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch29
+Primary_R=98
+Primary_G=38
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=51
+FactionRestriction=0
+
+[AutobotSwatch30 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch30
+Primary_R=98
+Primary_G=55
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=52
+FactionRestriction=0
+
+[AutobotSwatch28.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch28.Swap
+Secondary_R=98
+Secondary_G=24
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=50
+FactionRestriction=0
+
+[AutobotSwatch29.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch29.Swap
+Secondary_R=98
+Secondary_G=38
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=51
+FactionRestriction=0
+
+[AutobotSwatch30.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch30.Swap
+Secondary_R=98
+Secondary_G=55
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=52
+FactionRestriction=0
+
+[AutobotSwatch31 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch31
+Primary_R=98
+Primary_G=39
+Primary_B=1
+Secondary_R=5
+Secondary_G=55
+Secondary_B=0
+FactionRestriction=0
+
+[AutobotSwatch32 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch32
+Primary_R=98
+Primary_G=51
+Primary_B=10
+Secondary_R=12
+Secondary_G=55
+Secondary_B=5
+FactionRestriction=0
+
+[AutobotSwatch33 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch33
+Primary_R=98
+Primary_G=65
+Primary_B=29
+Secondary_R=23
+Secondary_G=55
+Secondary_B=16
+FactionRestriction=0
+
+[AutobotSwatch31.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch31.Swap
+Secondary_R=98
+Secondary_G=39
+Secondary_B=1
+Primary_R=5
+Primary_G=55
+Primary_B=0
+FactionRestriction=0
+
+[AutobotSwatch32.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch32.Swap
+Secondary_R=98
+Secondary_G=51
+Secondary_B=10
+Primary_R=12
+Primary_G=55
+Primary_B=5
+FactionRestriction=0
+
+[AutobotSwatch33.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch33.Swap
+Secondary_R=98
+Secondary_G=65
+Secondary_B=29
+Primary_R=23
+Primary_G=55
+Primary_B=16
+FactionRestriction=0
+
+[AutobotSwatch34 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch34
+Primary_R=98
+Primary_G=58
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=21
+FactionRestriction=0
+
+[AutobotSwatch35 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch35
+Primary_R=98
+Primary_G=67
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=28
+FactionRestriction=0
+
+[AutobotSwatch36 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch36
+Primary_R=98
+Primary_G=77
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=36
+FactionRestriction=0
+
+[AutobotSwatch34.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch34.Swap
+Secondary_R=98
+Secondary_G=58
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=21
+FactionRestriction=0
+
+[AutobotSwatch35.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch35.Swap
+Secondary_R=98
+Secondary_G=67
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=28
+FactionRestriction=0
+
+[AutobotSwatch36.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch36.Swap
+Secondary_R=98
+Secondary_G=77
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=36
+FactionRestriction=0
+
+[AutobotSwatch37 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch37
+Primary_R=98
+Primary_G=81
+Primary_B=1
+Secondary_R=0
+Secondary_G=22
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch38 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch38
+Primary_R=98
+Primary_G=85
+Primary_B=10
+Secondary_R=5
+Secondary_G=29
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch39 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch39
+Primary_R=98
+Primary_G=89
+Primary_B=29
+Secondary_R=16
+Secondary_G=36
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch37.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch37.Swap
+Secondary_R=98
+Secondary_G=81
+Secondary_B=1
+Primary_R=0
+Primary_G=22
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch38.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch38.Swap
+Secondary_R=98
+Secondary_G=85
+Secondary_B=10
+Primary_R=5
+Primary_G=29
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch39.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch39.Swap
+Secondary_R=98
+Secondary_G=89
+Secondary_B=29
+Primary_R=16
+Primary_G=36
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch40 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch40
+Primary_R=89
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=4
+FactionRestriction=0
+
+[AutobotSwatch41 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch41
+Primary_R=92
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=12
+FactionRestriction=0
+
+[AutobotSwatch42 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch42
+Primary_R=94
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=22
+FactionRestriction=0
+
+[AutobotSwatch40.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch40.Swap
+Secondary_R=89
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=4
+FactionRestriction=0
+
+[AutobotSwatch41.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch41.Swap
+Secondary_R=92
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=12
+FactionRestriction=0
+
+[AutobotSwatch42.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch42.Swap
+Secondary_R=94
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=22
+FactionRestriction=0
+
+[AutobotSwatch43 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch43
+Primary_R=65
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=52
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch44 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch44
+Primary_R=73
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=52
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch45 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch45
+Primary_R=81
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=53
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch43.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch43.Swap
+Secondary_R=65
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=52
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch44.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch44.Swap
+Secondary_R=73
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=52
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch45.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch45.Swap
+Secondary_R=81
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=53
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch46 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch46
+Primary_R=45
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=3
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch47 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch47
+Primary_R=56
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=9
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch48 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch48
+Primary_R=69
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=20
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch46.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch46.Swap
+Secondary_R=45
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=3
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch47.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch47.Swap
+Secondary_R=56
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=9
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch48.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch48.Swap
+Secondary_R=69
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=20
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch49 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch49
+Primary_R=29
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=55
+Secondary_B=26
+FactionRestriction=0
+
+[AutobotSwatch50 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch50
+Primary_R=42
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=55
+Secondary_B=32
+FactionRestriction=0
+
+[AutobotSwatch51 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch51
+Primary_R=58
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=55
+Secondary_B=39
+FactionRestriction=0
+
+[AutobotSwatch49.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch49.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=55
+Primary_B=26
+FactionRestriction=0
+
+[AutobotSwatch50.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch50.Swap
+Secondary_R=42
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=55
+Primary_B=32
+FactionRestriction=0
+
+[AutobotSwatch51.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch51.Swap
+Secondary_R=58
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=55
+Primary_B=39
+FactionRestriction=0
+
+[AutobotSwatch52 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch52
+Primary_R=16
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=17
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch53 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch53
+Primary_R=30
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=24
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch54 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch54
+Primary_R=48
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=33
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch52.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch52.Swap
+Secondary_R=16
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=17
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch53.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch53.Swap
+Secondary_R=30
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=24
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch54.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch54.Swap
+Secondary_R=48
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=33
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch55 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch55
+Primary_R=8
+Primary_G=98
+Primary_B=1
+Secondary_R=7
+Secondary_G=0
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch56 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch56
+Primary_R=20
+Primary_G=98
+Primary_B=10
+Secondary_R=15
+Secondary_G=5
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch57 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch57
+Primary_R=39
+Primary_G=98
+Primary_B=29
+Secondary_R=25
+Secondary_G=16
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch55.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch55.Swap
+Secondary_R=8
+Secondary_G=98
+Secondary_B=1
+Primary_R=7
+Primary_G=0
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch56.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch56.Swap
+Secondary_R=20
+Secondary_G=98
+Secondary_B=10
+Primary_R=15
+Primary_G=5
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch57.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch57.Swap
+Secondary_R=39
+Secondary_G=98
+Secondary_B=29
+Primary_R=25
+Primary_G=16
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch58 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch58
+Primary_R=2
+Primary_G=98
+Primary_B=1
+Secondary_R=0
+Secondary_G=44
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch59 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch59
+Primary_R=12
+Primary_G=98
+Primary_B=10
+Secondary_R=5
+Secondary_G=46
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch60 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch60
+Primary_R=31
+Primary_G=98
+Primary_B=29
+Secondary_R=16
+Secondary_G=49
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch58.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch58.Swap
+Secondary_R=2
+Secondary_G=98
+Secondary_B=1
+Primary_R=0
+Primary_G=44
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch59.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch59.Swap
+Secondary_R=12
+Secondary_G=98
+Secondary_B=10
+Primary_R=5
+Primary_G=46
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch60.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch60.Swap
+Secondary_R=31
+Secondary_G=98
+Secondary_B=29
+Primary_R=16
+Primary_G=49
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch61 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch61
+Primary_R=1
+Primary_G=98
+Primary_B=4
+Secondary_R=0
+Secondary_G=1
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch62 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch62
+Primary_R=10
+Primary_G=98
+Primary_B=15
+Secondary_R=5
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch63 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch63
+Primary_R=29
+Primary_G=98
+Primary_B=34
+Secondary_R=16
+Secondary_G=18
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch61.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch61.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=4
+Primary_R=0
+Primary_G=1
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch62.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch62.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=15
+Primary_R=5
+Primary_G=7
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch63.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch63.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=34
+Primary_R=16
+Primary_G=18
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch64 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch64
+Primary_R=1
+Primary_G=98
+Primary_B=10
+Secondary_R=32
+Secondary_G=0
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch65 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch65
+Primary_R=10
+Primary_G=98
+Primary_B=23
+Secondary_R=37
+Secondary_G=5
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch66 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch66
+Primary_R=29
+Primary_G=98
+Primary_B=42
+Secondary_R=43
+Secondary_G=16
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch64.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch64.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=10
+Primary_R=32
+Primary_G=0
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch65.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch65.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=23
+Primary_R=37
+Primary_G=5
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch66.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch66.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=42
+Primary_R=43
+Primary_G=16
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch67 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch67
+Primary_R=1
+Primary_G=98
+Primary_B=20
+Secondary_R=0
+Secondary_G=13
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch68 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch68
+Primary_R=10
+Primary_G=98
+Primary_B=34
+Secondary_R=5
+Secondary_G=20
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch69 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch69
+Primary_R=29
+Primary_G=98
+Primary_B=51
+Secondary_R=16
+Secondary_G=30
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch67.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch67.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=20
+Primary_R=0
+Primary_G=13
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch68.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch68.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=34
+Primary_R=5
+Primary_G=20
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch69.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch69.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=51
+Primary_R=16
+Primary_G=30
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch70 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch70
+Primary_R=1
+Primary_G=98
+Primary_B=34
+Secondary_R=10
+Secondary_G=0
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch71 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch71
+Primary_R=10
+Primary_G=98
+Primary_B=46
+Secondary_R=18
+Secondary_G=5
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch72 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch72
+Primary_R=29
+Primary_G=98
+Primary_B=61
+Secondary_R=28
+Secondary_G=16
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch70.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch70.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=34
+Primary_R=10
+Primary_G=0
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch71.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch71.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=46
+Primary_R=18
+Primary_G=5
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch72.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch72.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=61
+Primary_R=28
+Primary_G=16
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch73 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch73
+Primary_R=1
+Primary_G=98
+Primary_B=51
+Secondary_R=55
+Secondary_G=0
+Secondary_B=36
+FactionRestriction=0
+
+[AutobotSwatch74 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch74
+Primary_R=10
+Primary_G=98
+Primary_B=61
+Secondary_R=55
+Secondary_G=5
+Secondary_B=41
+FactionRestriction=0
+
+[AutobotSwatch75 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch75
+Primary_R=29
+Primary_G=98
+Primary_B=73
+Secondary_R=55
+Secondary_G=16
+Secondary_B=45
+FactionRestriction=0
+
+[AutobotSwatch73.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch73.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=51
+Primary_R=55
+Primary_G=0
+Primary_B=36
+FactionRestriction=0
+
+[AutobotSwatch74.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch74.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=61
+Primary_R=55
+Primary_G=5
+Primary_B=41
+FactionRestriction=0
+
+[AutobotSwatch75.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch75.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=73
+Primary_R=55
+Primary_G=16
+Primary_B=45
+FactionRestriction=0
+
+[AutobotSwatch76 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch76
+Primary_R=1
+Primary_G=98
+Primary_B=73
+Secondary_R=1
+Secondary_G=0
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch77 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch77
+Primary_R=10
+Primary_G=98
+Primary_B=79
+Secondary_R=6
+Secondary_G=5
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch78 TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch78
+Primary_R=29
+Primary_G=98
+Primary_B=85
+Secondary_R=16
+Secondary_G=16
+Secondary_B=55
+FactionRestriction=0
+
+[AutobotSwatch76.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch76.Swap
+Secondary_R=1
+Secondary_G=98
+Secondary_B=73
+Primary_R=1
+Primary_G=0
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch77.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch77.Swap
+Secondary_R=10
+Secondary_G=98
+Secondary_B=79
+Primary_R=6
+Primary_G=5
+Primary_B=55
+FactionRestriction=0
+
+[AutobotSwatch78.Swap TnDataProvider_ColorSwatch]
+UniqueId=AutobotSwatch78.Swap
+Secondary_R=29
+Secondary_G=98
+Secondary_B=85
+Primary_R=16
+Primary_G=16
+Primary_B=55
+FactionRestriction=0
+;======================= Decepticons Colors ==========================
+
+[DecepticonSwatch101 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch101
+Primary_R=63
+Primary_G=9
+Primary_B=20
+Secondary_R=36
+Secondary_G=95
+Secondary_B=213
+FactionRestriction=1
+
+[DecepticonSwatch103 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch103
+Primary_R=110
+Primary_G=76
+Primary_B=217
+Secondary_R=110
+Secondary_G=76
+Secondary_B=217
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer01 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer01
+Primary_R=110
+Primary_G=76
+Primary_B=217
+Secondary_R=123
+Secondary_G=155
+Secondary_B=85
+FactionRestriction=1
+
+[DecepticonSwatch102 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch102
+Primary_R=36
+Primary_G=95
+Primary_B=213
+Secondary_R=63
+Secondary_G=9
+Secondary_B=20
+FactionRestriction=1
+
+[SoraColor.DecepticonSwatch103.Inv TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.DecepticonSwatch103.Inv
+Secondary_R=123
+Secondary_G=155
+Secondary_B=85
+Primary_R=123
+Primary_G=155
+Primary_B=85
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer02 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer02
+Secondary_R=110
+Secondary_G=76
+Secondary_B=217
+Primary_R=123
+Primary_G=155
+Primary_B=85
+FactionRestriction=1
+
+[DecepticonSwatch104 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch104
+Primary_R=148
+Primary_G=7
+Primary_B=166
+Secondary_R=30
+Secondary_G=106
+Secondary_B=169
+FactionRestriction=1
+
+[DecepticonSwatch106 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch106
+Primary_R=22
+Primary_G=18
+Primary_B=69
+Secondary_R=102
+Secondary_G=26
+Secondary_B=0
+FactionRestriction=1
+
+[DecepticonSwatch107 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch107
+Primary_R=28
+Primary_G=52
+Primary_B=129
+Secondary_R=47
+Secondary_G=52
+Secondary_B=69
+FactionRestriction=1
+
+[DecepticonSwatch105 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch105
+Primary_R=30
+Primary_G=106
+Primary_B=169
+Secondary_R=148
+Secondary_G=7
+Secondary_B=166
+FactionRestriction=1
+
+
+[DecepticonSwatch106.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch106.Swap
+Secondary_R=22
+Secondary_G=18
+Secondary_B=69
+Primary_R=102
+Primary_G=26
+Primary_B=0
+FactionRestriction=1
+
+[DecepticonSwatch108 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch108
+Primary_R=47
+Primary_G=52
+Primary_B=69
+Secondary_R=28
+Secondary_G=52
+Secondary_B=129
+FactionRestriction=1
+
+[DecepticonSwatch109 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch109
+Primary_R=50
+Primary_G=49
+Primary_B=70
+Secondary_R=168
+Secondary_G=130
+Secondary_B=207
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer03 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer03
+Primary_R=100
+Primary_G=80
+Primary_B=120
+Secondary_R=120
+Secondary_G=10
+Secondary_B=160
+FactionRestriction=1
+
+[DecepticonSwatch110 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch110
+Primary_R=1
+Primary_G=1
+Primary_B=1
+Secondary_R=110
+Secondary_G=76
+Secondary_B=217
+FactionRestriction=1
+
+[DecepticonSwatch109.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch109.Swap
+Secondary_R=50
+Secondary_G=49
+Secondary_B=70
+Primary_R=168
+Primary_G=130
+Primary_B=207
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer04 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer04
+Primary_R=120
+Primary_G=10
+Primary_B=160
+Secondary_R=100
+Secondary_G=80
+Secondary_B=120
+FactionRestriction=1
+
+[DecepticonSwatch111 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch111
+Primary_R=110
+Primary_G=76
+Primary_B=217
+Secondary_R=1
+Secondary_G=1
+Secondary_B=1
+FactionRestriction=1
+
+[DecepticonSwatch112 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch112
+Primary_R=109
+Primary_G=9
+Primary_B=25
+Secondary_R=118
+Secondary_G=111
+Secondary_B=125
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer05 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer05
+Primary_R=109
+Primary_G=9
+Primary_B=25
+Secondary_R=141
+Secondary_G=137
+Secondary_B=79
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer07 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer07
+Primary_R=109
+Primary_G=9
+Primary_B=25
+Secondary_R=162
+Secondary_G=139
+Secondary_B=45
+FactionRestriction=1
+
+[DecepticonSwatch112.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch112.Swap
+Secondary_R=109
+Secondary_G=9
+Secondary_B=25
+Primary_R=118
+Primary_G=111
+Primary_B=125
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer06 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer06
+Primary_R=141
+Primary_G=137
+Primary_B=79
+Secondary_R=109
+Secondary_G=9
+Secondary_B=25
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer08 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer08
+Primary_R=162
+Primary_G=139
+Primary_B=45
+Secondary_R=109
+Secondary_G=9
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch113 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch113
+Primary_R=141
+Primary_G=137
+Primary_B=79
+Secondary_R=73
+Secondary_G=31
+Secondary_B=134
+FactionRestriction=1
+
+[DecepticonSwatch114 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch114
+Primary_R=210
+Primary_G=242
+Primary_B=34
+Secondary_R=122
+Secondary_G=77
+Secondary_B=162
+FactionRestriction=1
+
+[DecepticonSwatch115 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch115
+Primary_R=210
+Primary_G=242
+Primary_B=34
+Secondary_R=110
+Secondary_G=76
+Secondary_B=217
+FactionRestriction=1
+
+[DecepticonSwatch116 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch116
+Primary_R=73
+Primary_G=31
+Primary_B=134
+Secondary_R=141
+Secondary_G=137
+Secondary_B=79
+FactionRestriction=1
+
+[DecepticonSwatch114.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch114.Swap
+Secondary_R=210
+Secondary_G=242
+Secondary_B=34
+Primary_R=122
+Primary_G=77
+Primary_B=162
+FactionRestriction=1
+
+[DecepticonSwatch115.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch115.Swap
+Secondary_R=210
+Secondary_G=242
+Secondary_B=34
+Primary_R=110
+Primary_G=76
+Primary_B=217
+FactionRestriction=1
+
+[DecepticonSwatch117 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch117
+Primary_R=115
+Primary_G=54
+Primary_B=207
+Secondary_R=162
+Secondary_G=139
+Secondary_B=45
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer09 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer09
+Primary_R=109
+Primary_G=9
+Primary_B=25
+Secondary_R=115
+Secondary_G=54
+Secondary_B=207
+FactionRestriction=1
+
+[DecepticonSwatch118 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch118
+Primary_R=168
+Primary_G=69
+Primary_B=149
+Secondary_R=214
+Secondary_G=187
+Secondary_B=118
+FactionRestriction=1
+
+[DecepticonSwatch117.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch117.Swap
+Secondary_R=115
+Secondary_G=54
+Secondary_B=207
+Primary_R=162
+Primary_G=139
+Primary_B=45
+FactionRestriction=1
+
+[SoraColor.Dark.Spacer10 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.Spacer10
+Primary_R=115
+Primary_G=54
+Primary_B=207
+Secondary_R=109
+Secondary_G=9
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch118.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch118.Swap
+Secondary_R=168
+Secondary_G=69
+Secondary_B=149
+Primary_R=214
+Primary_G=187
+Primary_B=118
+FactionRestriction=1
+
+[DecepticonSwatch119 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch119
+Primary_R=45
+Primary_G=15
+Primary_B=61
+Secondary_R=87
+Secondary_G=53
+Secondary_B=15
+FactionRestriction=1
+
+[DecepticonSwatch120 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch120
+Primary_R=84
+Primary_G=65
+Primary_B=104
+Secondary_R=140
+Secondary_G=189
+Secondary_B=170
+FactionRestriction=1
+
+[DecepticonSwatch121 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch121
+Primary_R=79
+Primary_G=168
+Primary_B=87
+Secondary_R=245
+Secondary_G=247
+Secondary_B=244
+FactionRestriction=1
+
+[DecepticonSwatch119.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch119.Swap
+Secondary_R=45
+Secondary_G=15
+Secondary_B=61
+Primary_R=87
+Primary_G=53
+Primary_B=15
+FactionRestriction=1
+
+[DecepticonSwatch120.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch120.Swap
+Secondary_R=84
+Secondary_G=65
+Secondary_B=104
+Primary_R=140
+Primary_G=189
+Primary_B=170
+FactionRestriction=1
+
+[DecepticonSwatch121.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch121.Swap
+Secondary_R=79
+Secondary_G=168
+Secondary_B=87
+Primary_R=245
+Primary_G=247
+Primary_B=244
+FactionRestriction=1
+
+[DecepticonSwatch122 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch122
+Primary_R=25
+Primary_G=26
+Primary_B=32
+Secondary_R=92
+Secondary_G=17
+Secondary_B=16
+FactionRestriction=1
+
+[DecepticonSwatch123 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch123
+Primary_R=45
+Primary_G=45
+Primary_B=45
+Secondary_R=199
+Secondary_G=68
+Secondary_B=48
+FactionRestriction=1
+
+[DecepticonSwatch124 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch124
+Primary_R=58
+Primary_G=27
+Primary_B=32
+Secondary_R=172
+Secondary_G=81
+Secondary_B=37
+FactionRestriction=1
+
+[DecepticonSwatch122.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch122.Swap
+Secondary_R=25
+Secondary_G=26
+Secondary_B=32
+Primary_R=92
+Primary_G=17
+Primary_B=16
+FactionRestriction=1
+
+[DecepticonSwatch123.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch123.Swap
+Secondary_R=45
+Secondary_G=45
+Secondary_B=45
+Primary_R=199
+Primary_G=68
+Primary_B=48
+FactionRestriction=1
+
+[DecepticonSwatch124.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch124.Swap
+Secondary_R=58
+Secondary_G=27
+Secondary_B=32
+Primary_R=172
+Primary_G=81
+Primary_B=37
+FactionRestriction=1
+
+[DecepticonSwatch125 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch125
+Primary_R=52
+Primary_G=49
+Primary_B=106
+Secondary_R=42
+Secondary_G=74
+Secondary_B=61
+FactionRestriction=1
+
+[DecepticonSwatch126 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch126
+Primary_R=54
+Primary_G=102
+Primary_B=150
+Secondary_R=211
+Secondary_G=56
+Secondary_B=52
+FactionRestriction=1
+
+[DecepticonSwatch127 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch127
+Primary_R=52
+Primary_G=102
+Primary_B=163
+Secondary_R=232
+Secondary_G=175
+Secondary_B=42
+FactionRestriction=1
+
+[DecepticonSwatch125.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch125.Swap
+Secondary_R=52
+Secondary_G=49
+Secondary_B=106
+Primary_R=42
+Primary_G=74
+Primary_B=61
+FactionRestriction=1
+
+[DecepticonSwatch126.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch126.Swap
+Secondary_R=54
+Secondary_G=102
+Secondary_B=150
+Primary_R=211
+Primary_G=56
+Primary_B=52
+FactionRestriction=1
+
+[DecepticonSwatch127.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch127.Swap
+Secondary_R=52
+Secondary_G=102
+Secondary_B=163
+Primary_R=232
+Primary_G=175
+Primary_B=42
+FactionRestriction=1
+
+[DecepticonSwatch128 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch128
+Primary_R=109
+Primary_G=43
+Primary_B=140
+Secondary_R=140
+Secondary_G=189
+Secondary_B=170
+FactionRestriction=1
+
+[DecepticonSwatch129 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch129
+Primary_R=109
+Primary_G=43
+Primary_B=140
+Secondary_R=232
+Secondary_G=251
+Secondary_B=255
+FactionRestriction=1
+
+[DecepticonSwatch130 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch130
+Primary_R=71
+Primary_G=69
+Primary_B=178
+Secondary_R=162
+Secondary_G=140
+Secondary_B=187
+FactionRestriction=1
+
+[DecepticonSwatch128.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch128.Swap
+Secondary_R=109
+Secondary_G=43
+Secondary_B=140
+Primary_R=140
+Primary_G=189
+Primary_B=170
+FactionRestriction=1
+
+[DecepticonSwatch129.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch129.Swap
+Secondary_R=109
+Secondary_G=43
+Secondary_B=140
+Primary_R=232
+Primary_G=251
+Primary_B=255
+FactionRestriction=1
+
+[DecepticonSwatch130.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch130.Swap
+Secondary_R=71
+Secondary_G=69
+Secondary_B=178
+Primary_R=162
+Primary_G=140
+Primary_B=187
+FactionRestriction=1
+
+[DecepticonSwatch1 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch1
+Primary_R=13
+Primary_G=98
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch2 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch2
+Primary_R=26
+Primary_G=98
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch3 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch3
+Primary_R=45
+Primary_G=98
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch1.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch1.Swap
+Secondary_R=13
+Secondary_G=98
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch2.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch2.Swap
+Secondary_R=26
+Secondary_G=98
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch3.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch3.Swap
+Secondary_R=45
+Secondary_G=98
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch4 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch4
+Primary_R=13
+Primary_G=45
+Primary_B=98
+Secondary_R=7
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch5 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch5
+Primary_R=26
+Primary_G=56
+Primary_B=98
+Secondary_R=14
+Secondary_G=31
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch6 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch6
+Primary_R=45
+Primary_G=69
+Primary_B=98
+Secondary_R=25
+Secondary_G=38
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch4.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch4.Swap
+Secondary_R=13
+Secondary_G=45
+Secondary_B=98
+Primary_R=7
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch5.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch5.Swap
+Secondary_R=26
+Secondary_G=56
+Secondary_B=98
+Primary_R=14
+Primary_G=31
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch6.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch6.Swap
+Secondary_R=45
+Secondary_G=69
+Secondary_B=98
+Primary_R=25
+Primary_G=38
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch7 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch7
+Primary_R=13
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch8 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch8
+Primary_R=26
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch9 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch9
+Primary_R=45
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch7.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch7.Swap
+Secondary_R=13
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch8.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch8.Swap
+Secondary_R=26
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch9.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch9.Swap
+Secondary_R=45
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch10 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch10
+Primary_R=45
+Primary_G=13
+Primary_B=98
+Secondary_R=25
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch11 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch11
+Primary_R=56
+Primary_G=26
+Primary_B=98
+Secondary_R=31
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch12 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch12
+Primary_R=69
+Primary_G=45
+Primary_B=115
+Secondary_R=38
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch10.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch10.Swap
+Secondary_R=45
+Secondary_G=13
+Secondary_B=98
+Primary_R=25
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch11.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch11.Swap
+Secondary_R=56
+Secondary_G=26
+Secondary_B=98
+Primary_R=31
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch12.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch12.Swap
+Secondary_R=69
+Secondary_G=45
+Secondary_B=115
+Primary_R=38
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch13 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch13
+Primary_R=98
+Primary_G=13
+Primary_B=98
+Secondary_R=55
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch14 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch14
+Primary_R=98
+Primary_G=26
+Primary_B=98
+Secondary_R=55
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch15 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch15
+Primary_R=98
+Primary_G=45
+Primary_B=98
+Secondary_R=55
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch13.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch13.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=98
+Primary_R=55
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch14.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch14.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=98
+Primary_R=55
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch15.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch15.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=98
+Primary_R=55
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch16 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch16
+Primary_R=98
+Primary_G=13
+Primary_B=45
+Secondary_R=55
+Secondary_G=7
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch17 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch17
+Primary_R=98
+Primary_G=26
+Primary_B=56
+Secondary_R=55
+Secondary_G=14
+Secondary_B=31
+FactionRestriction=1
+
+[DecepticonSwatch18 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch18
+Primary_R=98
+Primary_G=45
+Primary_B=69
+Secondary_R=55
+Secondary_G=25
+Secondary_B=38
+FactionRestriction=1
+
+[DecepticonSwatch16.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch16.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=45
+Primary_R=55
+Primary_G=7
+Primary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch17.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch17.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=56
+Primary_R=55
+Primary_G=14
+Primary_B=31
+FactionRestriction=1
+
+[DecepticonSwatch18.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch18.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=69
+Primary_R=55
+Primary_G=25
+Primary_B=38
+FactionRestriction=1
+
+[DecepticonSwatch19 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch19
+Primary_R=13
+Primary_G=98
+Primary_B=98
+Secondary_R=55
+Secondary_G=25
+Secondary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch20 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch20
+Primary_R=26
+Primary_G=98
+Primary_B=98
+Secondary_R=55
+Secondary_G=31
+Secondary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch21 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch21
+Primary_R=45
+Primary_G=98
+Primary_B=98
+Secondary_R=55
+Secondary_G=38
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch19.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch19.Swap
+Secondary_R=13
+Secondary_G=98
+Secondary_B=98
+Primary_R=55
+Primary_G=25
+Primary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch20.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch20.Swap
+Secondary_R=26
+Secondary_G=98
+Secondary_B=98
+Primary_R=55
+Primary_G=31
+Primary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch21.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch21.Swap
+Secondary_R=45
+Secondary_G=98
+Secondary_B=98
+Primary_R=55
+Primary_G=38
+Primary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch22 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch22
+Primary_R=13
+Primary_G=80
+Primary_B=98
+Secondary_R=34
+Secondary_G=55
+Secondary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch23 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch23
+Primary_R=26
+Primary_G=84
+Primary_B=98
+Secondary_R=39
+Secondary_G=55
+Secondary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch24 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch24
+Primary_R=45
+Primary_G=89
+Primary_B=98
+Secondary_R=44
+Secondary_G=55
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch25 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch25
+Primary_R=13
+Primary_G=63
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=11
+FactionRestriction=1
+
+[DecepticonSwatch22.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch22.Swap
+Secondary_R=13
+Secondary_G=80
+Secondary_B=98
+Primary_R=34
+Primary_G=55
+Primary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch23.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch23.Swap
+Secondary_R=26
+Secondary_G=84
+Secondary_B=98
+Primary_R=39
+Primary_G=55
+Primary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch24.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch24.Swap
+Secondary_R=45
+Secondary_G=89
+Secondary_B=98
+Primary_R=44
+Primary_G=55
+Primary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch26 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch26
+Primary_R=26
+Primary_G=71
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=18
+FactionRestriction=1
+
+[DecepticonSwatch27 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch27
+Primary_R=45
+Primary_G=80
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=28
+FactionRestriction=1
+
+[DecepticonSwatch25.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch25.Swap
+Secondary_R=13
+Secondary_G=63
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=11
+FactionRestriction=1
+
+[DecepticonSwatch26.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch26.Swap
+Secondary_R=26
+Secondary_G=71
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=18
+FactionRestriction=1
+
+[DecepticonSwatch27.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch27.Swap
+Secondary_R=45
+Secondary_G=80
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=28
+FactionRestriction=1
+
+[DecepticonSwatch28 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch28
+Primary_R=13
+Primary_G=49
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=51
+FactionRestriction=1
+
+[DecepticonSwatch29 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch29
+Primary_R=26
+Primary_G=60
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=52
+FactionRestriction=1
+
+[DecepticonSwatch30 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch30
+Primary_R=45
+Primary_G=71
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=53
+FactionRestriction=1
+
+[DecepticonSwatch28.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch28.Swap
+Secondary_R=13
+Secondary_G=49
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=51
+FactionRestriction=1
+
+[DecepticonSwatch29.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch29.Swap
+Secondary_R=26
+Secondary_G=60
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=52
+FactionRestriction=1
+
+[DecepticonSwatch30.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch30.Swap
+Secondary_R=45
+Secondary_G=71
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=53
+FactionRestriction=1
+
+[DecepticonSwatch31 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch31
+Primary_R=13
+Primary_G=37
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch32 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch32
+Primary_R=26
+Primary_G=49
+Primary_B=98
+Secondary_R=21
+Secondary_G=55
+Secondary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch33 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch33
+Primary_R=45
+Primary_G=63
+Primary_B=98
+Secondary_R=31
+Secondary_G=55
+Secondary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch34 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch34
+Primary_R=13
+Primary_G=26
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=29
+FactionRestriction=1
+
+[DecepticonSwatch31.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch31.Swap
+Secondary_R=13
+Secondary_G=37
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=7
+FactionRestriction=1
+
+[DecepticonSwatch32.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch32.Swap
+Secondary_R=26
+Secondary_G=49
+Secondary_B=98
+Primary_R=21
+Primary_G=55
+Primary_B=14
+FactionRestriction=1
+
+[DecepticonSwatch33.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch33.Swap
+Secondary_R=45
+Secondary_G=63
+Secondary_B=98
+Primary_R=31
+Primary_G=55
+Primary_B=25
+FactionRestriction=1
+
+[DecepticonSwatch35 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch35
+Primary_R=26
+Primary_G=39
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=35
+FactionRestriction=1
+
+[DecepticonSwatch36 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch36
+Primary_R=45
+Primary_G=56
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=41
+FactionRestriction=1
+
+[DecepticonSwatch34.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch34.Swap
+Secondary_R=13
+Secondary_G=26
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=29
+FactionRestriction=1
+
+[DecepticonSwatch35.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch35.Swap
+Secondary_R=26
+Secondary_G=39
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=35
+FactionRestriction=1
+
+[DecepticonSwatch36.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch36.Swap
+Secondary_R=45
+Secondary_G=56
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=41
+FactionRestriction=1
+
+[DecepticonSwatch37 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch37
+Primary_R=13
+Primary_G=17
+Primary_B=98
+Secondary_R=7
+Secondary_G=30
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch38 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch38
+Primary_R=26
+Primary_G=31
+Primary_B=98
+Secondary_R=14
+Secondary_G=35
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch39 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch39
+Primary_R=45
+Primary_G=49
+Primary_B=98
+Secondary_R=25
+Secondary_G=41
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch37.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch37.Swap
+Secondary_R=13
+Secondary_G=17
+Secondary_B=98
+Primary_R=7
+Primary_G=30
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch38.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch38.Swap
+Secondary_R=26
+Secondary_G=31
+Secondary_B=98
+Primary_R=14
+Primary_G=35
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch39.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch39.Swap
+Secondary_R=45
+Secondary_G=49
+Secondary_B=98
+Primary_R=25
+Primary_G=41
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch40 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch40
+Primary_R=15
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=13
+FactionRestriction=1
+
+[DecepticonSwatch41 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch41
+Primary_R=28
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=21
+FactionRestriction=1
+
+[DecepticonSwatch42 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch42
+Primary_R=47
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=30
+FactionRestriction=1
+
+[DecepticonSwatch40.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch40.Swap
+Secondary_R=15
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=13
+FactionRestriction=1
+
+[DecepticonSwatch41.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch41.Swap
+Secondary_R=28
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=21
+FactionRestriction=1
+
+[DecepticonSwatch42.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch42.Swap
+Secondary_R=47
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=30
+FactionRestriction=1
+
+[DecepticonSwatch43 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch43
+Primary_R=23
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=53
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch44 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch44
+Primary_R=37
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=53
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch45 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch45
+Primary_R=54
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=54
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch43.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch43.Swap
+Secondary_R=23
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=53
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch44.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch44.Swap
+Secondary_R=37
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=53
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch45.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch45.Swap
+Secondary_R=54
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=54
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch46 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch46
+Primary_R=33
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=11
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch47 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch47
+Primary_R=46
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=19
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch48 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch48
+Primary_R=61
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=29
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch46.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch46.Swap
+Secondary_R=33
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=11
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch47.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch47.Swap
+Secondary_R=46
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=19
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch48.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch48.Swap
+Secondary_R=61
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=29
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch49 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch49
+Primary_R=45
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=55
+Secondary_B=33
+FactionRestriction=1
+
+[DecepticonSwatch50 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch50
+Primary_R=56
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=55
+Secondary_B=38
+FactionRestriction=1
+
+[DecepticonSwatch51 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch51
+Primary_R=69
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=55
+Secondary_B=44
+FactionRestriction=1
+
+[DecepticonSwatch49.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch49.Swap
+Secondary_R=45
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=55
+Primary_B=33
+FactionRestriction=1
+
+[DecepticonSwatch50.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch50.Swap
+Secondary_R=56
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=55
+Primary_B=38
+FactionRestriction=1
+
+[DecepticonSwatch51.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch51.Swap
+Secondary_R=69
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=55
+Primary_B=44
+FactionRestriction=1
+
+[DecepticonSwatch52 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch52
+Primary_R=58
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=26
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch53 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch53
+Primary_R=67
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=32
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch54 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch54
+Primary_R=77
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=39
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch52.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch52.Swap
+Secondary_R=58
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=26
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch53.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch53.Swap
+Secondary_R=67
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=32
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch54.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch54.Swap
+Secondary_R=77
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=39
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch55 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch55
+Primary_R=74
+Primary_G=13
+Primary_B=98
+Secondary_R=16
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch56 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch56
+Primary_R=80
+Primary_G=26
+Primary_B=98
+Secondary_R=24
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch57 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch57
+Primary_R=86
+Primary_G=45
+Primary_B=98
+Secondary_R=33
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch55.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch55.Swap
+Secondary_R=74
+Secondary_G=13
+Secondary_B=98
+Primary_R=16
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch56.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch56.Swap
+Secondary_R=80
+Secondary_G=26
+Secondary_B=98
+Primary_R=24
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch57.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch57.Swap
+Secondary_R=86
+Secondary_G=45
+Secondary_B=98
+Primary_R=33
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch58 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch58
+Primary_R=92
+Primary_G=13
+Primary_B=98
+Secondary_R=7
+Secondary_G=47
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch59 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch59
+Primary_R=94
+Primary_G=26
+Primary_B=98
+Secondary_R=14
+Secondary_G=49
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch60 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch60
+Primary_R=95
+Primary_G=45
+Primary_B=98
+Secondary_R=25
+Secondary_G=51
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch58.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch58.Swap
+Secondary_R=92
+Secondary_G=13
+Secondary_B=98
+Primary_R=7
+Primary_G=47
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch59.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch59.Swap
+Secondary_R=94
+Secondary_G=26
+Secondary_B=98
+Primary_R=14
+Primary_G=49
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch60.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch60.Swap
+Secondary_R=95
+Secondary_G=45
+Secondary_B=98
+Primary_R=25
+Primary_G=51
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch61 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch61
+Primary_R=98
+Primary_G=13
+Primary_B=86
+Secondary_R=7
+Secondary_G=9
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch62 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch62
+Primary_R=98
+Primary_G=26
+Primary_B=89
+Secondary_R=14
+Secondary_G=16
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch63 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch63
+Primary_R=98
+Primary_G=45
+Primary_B=92
+Secondary_R=25
+Secondary_G=26
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch61.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch61.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=86
+Primary_R=7
+Primary_G=9
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch62.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch62.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=89
+Primary_R=14
+Primary_G=16
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch63.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch63.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=92
+Primary_R=25
+Primary_G=26
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch64 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch64
+Primary_R=98
+Primary_G=13
+Primary_B=69
+Secondary_R=38
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch65 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch65
+Primary_R=98
+Primary_G=26
+Primary_B=76
+Secondary_R=42
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch66 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch66
+Primary_R=98
+Primary_G=45
+Primary_B=83
+Secondary_R=46
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch64.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch64.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=69
+Primary_R=38
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch65.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch65.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=76
+Primary_R=42
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch66.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch66.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=83
+Primary_R=46
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch67 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch67
+Primary_R=98
+Primary_G=13
+Primary_B=54
+Secondary_R=7
+Secondary_G=22
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch68 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch68
+Primary_R=98
+Primary_G=26
+Primary_B=63
+Secondary_R=14
+Secondary_G=29
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch69 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch69
+Primary_R=98
+Primary_G=45
+Primary_B=74
+Secondary_R=25
+Secondary_G=36
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch67.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch67.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=54
+Primary_R=7
+Primary_G=22
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch68.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch68.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=63
+Primary_R=14
+Primary_G=29
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch69.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch69.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=74
+Primary_R=25
+Primary_G=36
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch70 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch70
+Primary_R=98
+Primary_G=13
+Primary_B=40
+Secondary_R=20
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch71 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch71
+Primary_R=98
+Primary_G=26
+Primary_B=52
+Secondary_R=27
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch72 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch72
+Primary_R=98
+Primary_G=45
+Primary_B=66
+Secondary_R=35
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch70.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch70.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=40
+Primary_R=20
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch71.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch71.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=52
+Primary_R=27
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch72.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch72.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=66
+Primary_R=35
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch73 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch73
+Primary_R=98
+Primary_G=13
+Primary_B=29
+Secondary_R=55
+Secondary_G=7
+Secondary_B=41
+FactionRestriction=1
+
+[DecepticonSwatch74 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch74
+Primary_R=98
+Primary_G=26
+Primary_B=43
+Secondary_R=55
+Secondary_G=14
+Secondary_B=45
+FactionRestriction=1
+
+[DecepticonSwatch75 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch75
+Primary_R=98
+Primary_G=45
+Primary_B=58
+Secondary_R=55
+Secondary_G=25
+Secondary_B=48
+FactionRestriction=1
+
+[DecepticonSwatch73.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch73.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=29
+Primary_R=55
+Primary_G=7
+Primary_B=41
+FactionRestriction=1
+
+[DecepticonSwatch74.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch74.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=43
+Primary_R=55
+Primary_G=14
+Primary_B=45
+FactionRestriction=1
+
+[DecepticonSwatch75.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch75.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=58
+Primary_R=55
+Primary_G=25
+Primary_B=48
+FactionRestriction=1
+
+[DecepticonSwatch76 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch76
+Primary_R=98
+Primary_G=13
+Primary_B=20
+Secondary_R=7
+Secondary_G=7
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch77 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch77
+Primary_R=98
+Primary_G=26
+Primary_B=34
+Secondary_R=15
+Secondary_G=14
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch78 TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch78
+Primary_R=98
+Primary_G=45
+Primary_B=51
+Secondary_R=25
+Secondary_G=25
+Secondary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch76.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch76.Swap
+Secondary_R=98
+Secondary_G=13
+Secondary_B=20
+Primary_R=7
+Primary_G=7
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch77.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch77.Swap
+Secondary_R=98
+Secondary_G=26
+Secondary_B=34
+Primary_R=15
+Primary_G=14
+Primary_B=55
+FactionRestriction=1
+
+[DecepticonSwatch78.Swap TnDataProvider_ColorSwatch]
+UniqueId=DecepticonSwatch78.Swap
+Secondary_R=98
+Secondary_G=45
+Secondary_B=51
+Primary_R=25
+Primary_G=25
+Primary_B=55
+FactionRestriction=1
+
+;===============Sora's Colors===============
+
+;===============Light - Autobots===============
+
+[SoraColor.Light.01 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.01
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=255
+Secondary_G=128
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.02 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.02
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=0
+Secondary_G=128
+Secondary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.03 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.03
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=128
+Secondary_G=0
+Secondary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.04 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.04
+Primary_R=255
+Primary_G=128
+Primary_B=0
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.05 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.05
+Primary_R=0
+Primary_G=128
+Primary_B=255
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.06 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.06
+Primary_R=128
+Primary_G=0
+Primary_B=255
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.07 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.07
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=128
+Secondary_G=255
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.08 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.08
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=0
+Secondary_G=255
+Secondary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.09 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.09
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=255
+Secondary_G=0
+Secondary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.10 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.10
+Primary_R=128
+Primary_G=255
+Primary_B=0
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.11 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.11
+Primary_R=0
+Primary_G=255
+Primary_B=128
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.12 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.12
+Primary_R=255
+Primary_G=0
+Primary_B=128
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.13 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.13
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=230
+Secondary_G=20
+Secondary_B=20
+FactionRestriction=0
+
+[SoraColor.Light.14 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.14
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=20
+Secondary_G=230
+Secondary_B=20
+FactionRestriction=0
+
+[SoraColor.Light.15 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.15
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=20
+Secondary_G=20
+Secondary_B=230
+FactionRestriction=0
+
+[SoraColor.Light.16 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.16
+Primary_R=230
+Primary_G=20
+Primary_B=20
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.17 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.17
+Primary_R=20
+Primary_G=230
+Primary_B=20
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.18 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.18
+Primary_R=20
+Primary_G=20
+Primary_B=230
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.19 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.19
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=255
+Secondary_G=85
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.20 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.20
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=0
+Secondary_G=85
+Secondary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.21 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.21
+Primary_R=165
+Primary_G=179
+Primary_B=206
+Secondary_R=230
+Secondary_G=230
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.22 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.22
+Primary_R=255
+Primary_G=85
+Primary_B=0
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.23 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.23
+Primary_R=0
+Primary_G=85
+Primary_B=255
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+[SoraColor.Light.24 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.24
+Primary_R=230
+Primary_G=230
+Primary_B=0
+Secondary_R=165
+Secondary_G=179
+Secondary_B=206
+FactionRestriction=0
+
+;BotColor A-2
+
+[SoraColor.Light.25 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.25
+Primary_R=255
+Primary_G=208
+Primary_B=0
+Secondary_R=0
+Secondary_G=77
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-38
+
+[SoraColor.Light.26 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.26
+Primary_R=255
+Primary_G=32
+Primary_B=0
+Secondary_R=24
+Secondary_G=34
+Secondary_B=42
+FactionRestriction=0
+
+;BotColor A-10
+
+[SoraColor.Light.27 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.27
+Primary_R=255
+Primary_G=83
+Primary_B=117
+Secondary_R=90
+Secondary_G=90
+Secondary_B=90
+FactionRestriction=0
+
+;BotColor A-2
+
+[SoraColor.Light.28 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.28
+Primary_R=0
+Primary_G=77
+Primary_B=0
+Secondary_R=255
+Secondary_G=208
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-38
+
+[SoraColor.Light.29 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.29
+Primary_R=24
+Primary_G=34
+Primary_B=42
+Secondary_R=255
+Secondary_G=32
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-10
+
+[SoraColor.Light.30 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.30
+Primary_R=90
+Primary_G=90
+Primary_B=90
+Secondary_R=255
+Secondary_G=83
+Secondary_B=117
+FactionRestriction=0
+
+[SoraColor.Light.31 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.31
+Primary_R=76
+Primary_G=88
+Primary_B=142
+Secondary_R=193
+Secondary_G=69
+Secondary_B=78
+FactionRestriction=0
+
+[SoraColor.Light.32 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.32
+Primary_R=159
+Primary_G=193
+Primary_B=69
+Secondary_R=57
+Secondary_G=89
+Secondary_B=145
+FactionRestriction=0
+
+;BotColor A-13
+
+[SoraColor.Light.33 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.33
+Primary_R=255
+Primary_G=196
+Primary_B=0
+Secondary_R=233
+Secondary_G=59
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.34 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.34
+Primary_R=192
+Primary_G=69
+Primary_B=78
+Secondary_R=76
+Secondary_G=88
+Secondary_B=142
+FactionRestriction=0
+
+[SoraColor.Light.35 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.35
+Primary_R=57
+Primary_G=89
+Primary_B=145
+Secondary_R=159
+Secondary_G=193
+Secondary_B=69
+FactionRestriction=0
+
+;BotColor A-13
+
+[SoraColor.Light.36 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.36
+Primary_R=233
+Primary_G=59
+Primary_B=0
+Secondary_R=255
+Secondary_G=196
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-14
+
+[SoraColor.Light.37 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.37
+Primary_R=140
+Primary_G=156
+Primary_B=255
+Secondary_R=230
+Secondary_G=38
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-15
+
+[SoraColor.Light.38 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.38
+Primary_R=40
+Primary_G=70
+Primary_B=196
+Secondary_R=255
+Secondary_G=142
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-17
+
+[SoraColor.Light.39 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.39
+Primary_R=255
+Primary_G=162
+Primary_B=62
+Secondary_R=112
+Secondary_G=49
+Secondary_B=128
+FactionRestriction=0
+
+;BotColor A-14
+
+[SoraColor.Light.40 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.40
+Primary_R=230
+Primary_G=38
+Primary_B=0
+Secondary_R=140
+Secondary_G=156
+Secondary_B=255
+FactionRestriction=0
+
+;BotColor A-15
+
+[SoraColor.Light.41 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.41
+Primary_R=255
+Primary_G=142
+Primary_B=0
+Secondary_R=40
+Secondary_G=70
+Secondary_B=196
+FactionRestriction=0
+
+;BotColor A-16
+
+[SoraColor.Light.42 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.42
+Primary_R=112
+Primary_G=49
+Primary_B=128
+Secondary_R=255
+Secondary_G=162
+Secondary_B=62
+FactionRestriction=0
+
+;BotColor A-6
+
+[SoraColor.Light.43 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.43
+Primary_R=255
+Primary_G=86
+Primary_B=145
+Secondary_R=109
+Secondary_G=177
+Secondary_B=0
+FactionRestriction=0
+
+;BotColor A-27
+
+[SoraColor.Light.44 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.44
+Primary_R=159
+Primary_G=193
+Primary_B=69
+Secondary_R=57
+Secondary_G=89
+Secondary_B=145
+FactionRestriction=0
+
+;BotColor A-23
+
+[SoraColor.Light.45 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.45
+Primary_R=209
+Primary_G=88
+Primary_B=213
+Secondary_R=193
+Secondary_G=10
+Secondary_B=10
+FactionRestriction=0
+
+;BotColor A-6
+
+[SoraColor.Light.46 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.46
+Primary_R=109
+Primary_G=177
+Primary_B=0
+Secondary_R=255
+Secondary_G=86
+Secondary_B=145
+FactionRestriction=0
+
+;BotColor A-27
+
+[SoraColor.Light.47 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.47
+Primary_R=57
+Primary_G=89
+Primary_B=145
+Secondary_R=159
+Secondary_G=193
+Secondary_B=69
+FactionRestriction=0
+
+;BotColor A-23
+
+[SoraColor.Light.48 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.48
+Primary_R=193
+Primary_G=10
+Primary_B=10
+Secondary_R=209
+Secondary_G=88
+Secondary_B=213
+FactionRestriction=0
+
+[SoraColor.Light.49 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.49
+Primary_R=227
+Primary_G=183
+Primary_B=42
+Secondary_R=5
+Secondary_G=30
+Secondary_B=200
+FactionRestriction=0
+
+[SoraColor.Light.50 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.50
+Primary_R=227
+Primary_G=183
+Primary_B=42
+Secondary_R=30
+Secondary_G=200
+Secondary_B=5
+FactionRestriction=0
+
+[SoraColor.Light.51 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.51
+Primary_R=227
+Primary_G=183
+Primary_B=42
+Secondary_R=200
+Secondary_G=5
+Secondary_B=30
+FactionRestriction=0
+
+[SoraColor.Light.52 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.52
+Secondary_R=227
+Secondary_G=183
+Secondary_B=42
+Primary_R=5
+Primary_G=30
+Primary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.53 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.53
+Secondary_R=227
+Secondary_G=183
+Secondary_B=42
+Primary_R=30
+Primary_G=255
+Primary_B=5
+FactionRestriction=0
+
+[SoraColor.Light.54 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.54
+Secondary_R=227
+Secondary_G=183
+Secondary_B=42
+Primary_R=255
+Primary_G=5
+Primary_B=30
+FactionRestriction=0
+
+[SoraColor.Light.55 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.55
+Secondary_R=150
+Secondary_G=20
+Secondary_B=45
+Primary_R=255
+Primary_G=165
+Primary_B=40
+FactionRestriction=0
+
+[SoraColor.Light.56 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.56
+Secondary_R=220
+Secondary_G=25
+Secondary_B=103
+Primary_R=165
+Primary_G=132
+Primary_B=125
+FactionRestriction=0
+
+[SoraColor.Light.57 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.57
+Secondary_R=230
+Secondary_G=12
+Secondary_B=30
+Primary_R=122
+Primary_G=115
+Primary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.58 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.58
+Primary_R=150
+Primary_G=20
+Primary_B=45
+Secondary_R=255
+Secondary_G=165
+Secondary_B=40
+FactionRestriction=0
+
+[SoraColor.Light.59 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.59
+Primary_R=220
+Primary_G=25
+Primary_B=103
+Secondary_R=165
+Secondary_G=132
+Secondary_B=125
+FactionRestriction=0
+
+[SoraColor.Light.60 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.60
+Primary_R=230
+Primary_G=12
+Primary_B=30
+Secondary_R=122
+Secondary_G=115
+Secondary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.61 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.61
+Primary_R=255
+Primary_G=174
+Primary_B=56
+Secondary_R=179
+Secondary_G=0
+Secondary_B=24
+FactionRestriction=0
+
+[SoraColor.Light.62 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.62
+Primary_R=90
+Primary_G=95
+Primary_B=115
+Secondary_R=255
+Secondary_G=27
+Secondary_B=112
+FactionRestriction=0
+
+[SoraColor.Light.63 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.63
+Secondary_R=167
+Secondary_G=38
+Secondary_B=43
+Primary_R=141
+Primary_G=146
+Primary_B=149
+FactionRestriction=0
+
+[SoraColor.Light.64 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.64
+Secondary_R=255
+Secondary_G=174
+Secondary_B=56
+Primary_R=179
+Primary_G=0
+Primary_B=24
+FactionRestriction=0
+
+[SoraColor.Light.65 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.65
+Secondary_R=90
+Secondary_G=95
+Secondary_B=115
+Primary_R=255
+Primary_G=27
+Primary_B=112
+FactionRestriction=0
+
+[SoraColor.Light.66 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.66
+Primary_R=167
+Primary_G=38
+Primary_B=43
+Secondary_R=141
+Secondary_G=146
+Secondary_B=149
+FactionRestriction=0
+
+[SoraColor.Light.67 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.67
+Primary_R=114
+Primary_G=109
+Primary_B=109
+Secondary_R=255
+Secondary_G=147
+Secondary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.68 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.68
+Secondary_R=171
+Secondary_G=6
+Secondary_B=45
+Primary_R=53
+Primary_G=85
+Primary_B=102
+FactionRestriction=0
+
+[SoraColor.Light.69 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.69
+Primary_R=1
+Primary_G=7
+Primary_B=53
+Secondary_R=251
+Secondary_G=21
+Secondary_B=2
+FactionRestriction=0
+
+[SoraColor.Light.70 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.70
+Secondary_R=114
+Secondary_G=109
+Secondary_B=109
+Primary_R=255
+Primary_G=147
+Primary_B=0
+FactionRestriction=0
+
+[SoraColor.Light.71 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.71
+Primary_R=171
+Primary_G=6
+Primary_B=45
+Secondary_R=53
+Secondary_G=85
+Secondary_B=102
+FactionRestriction=0
+
+[SoraColor.Light.72 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.72
+Secondary_R=1
+Secondary_G=7
+Secondary_B=53
+Primary_R=251
+Primary_G=21
+Primary_B=2
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.73 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.73
+Primary_R=61
+Primary_G=74
+Primary_B=80
+Secondary_R=226
+Secondary_G=230
+Secondary_B=23
+FactionRestriction=0
+
+[SoraColor.Light.74 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.74
+Primary_R=61
+Primary_G=74
+Primary_B=80
+Secondary_R=230
+Secondary_G=161
+Secondary_B=23
+FactionRestriction=0
+
+[SoraColor.Light.75 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.75
+Secondary_R=230
+Secondary_G=161
+Secondary_B=23
+Primary_R=147
+Primary_G=178
+Primary_B=196
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.76 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.76
+Secondary_R=61
+Secondary_G=74
+Secondary_B=80
+Primary_R=226
+Primary_G=230
+Primary_B=23
+FactionRestriction=0
+
+[SoraColor.Light.77 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.77
+Secondary_R=61
+Secondary_G=74
+Secondary_B=80
+Primary_R=230
+Primary_G=161
+Primary_B=23
+FactionRestriction=0
+
+[SoraColor.Light.78 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.78
+Primary_R=230
+Primary_G=161
+Primary_B=23
+Secondary_R=147
+Secondary_G=178
+Secondary_B=196
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.79 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.79
+Primary_R=204
+Primary_G=69
+Primary_B=20
+Secondary_R=38
+Secondary_G=51
+Secondary_B=15
+FactionRestriction=0
+
+[SoraColor.Light.80 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.80
+Primary_R=179
+Primary_G=95
+Primary_B=18
+Secondary_R=29
+Secondary_G=38
+Secondary_B=12
+FactionRestriction=0
+
+[SoraColor.Light.81 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.81
+Primary_R=147
+Primary_G=178
+Primary_B=196
+Secondary_R=226
+Secondary_G=230
+Secondary_B=23
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.82 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.82
+Secondary_R=204
+Secondary_G=69
+Secondary_B=20
+Primary_R=38
+Primary_G=51
+Primary_B=15
+FactionRestriction=0
+
+[SoraColor.Light.83 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.83
+Secondary_R=237
+Secondary_G=129
+Secondary_B=30
+Primary_R=62
+Primary_G=77
+Primary_B=36
+FactionRestriction=0
+
+[SoraColor.Light.84 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.84
+Secondary_R=147
+Secondary_G=178
+Secondary_B=196
+Primary_R=226
+Primary_G=230
+Primary_B=23
+FactionRestriction=0
+
+;<-------------->
+
+[SoraColor.Light.85 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.85
+Primary_R=18
+Primary_G=197
+Primary_B=182
+Secondary_R=237
+Secondary_G=228
+Secondary_B=231
+FactionRestriction=0
+
+[SoraColor.Light.86 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.86
+Secondary_R=230
+Secondary_G=155
+Secondary_B=45
+Primary_R=18
+Primary_G=197
+Primary_B=182
+FactionRestriction=0
+
+[SoraColor.Light.87 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.87
+Primary_R=18
+Primary_G=197
+Primary_B=182
+Secondary_R=131
+Secondary_G=26
+Secondary_B=43
+FactionRestriction=0
+
+;<-------------->
+
+[SoraColor.Light.88 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.88
+Secondary_R=18
+Secondary_G=197
+Secondary_B=182
+Primary_R=237
+Primary_G=228
+Primary_B=231
+FactionRestriction=0
+
+[SoraColor.Light.89 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.89
+Primary_R=230
+Primary_G=155
+Primary_B=45
+Secondary_R=18
+Secondary_G=197
+Secondary_B=182
+FactionRestriction=0
+
+[SoraColor.Light.90 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.90
+Secondary_R=18
+Secondary_G=197
+Secondary_B=182
+Primary_R=131
+Primary_G=26
+Primary_B=43
+FactionRestriction=0
+
+;<-------------->
+
+[SoraColor.Light.91 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.91
+Primary_R=237
+Primary_G=228
+Primary_B=231
+Secondary_R=230
+Secondary_G=155
+Secondary_B=45
+FactionRestriction=0
+
+[SoraColor.Light.92 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.92
+Secondary_R=131
+Secondary_G=26
+Secondary_B=43
+Primary_R=237
+Primary_G=228
+Primary_B=231
+FactionRestriction=0
+
+[SoraColor.Light.93 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.93
+Primary_R=230
+Primary_G=155
+Primary_B=45
+Secondary_R=131
+Secondary_G=26
+Secondary_B=43
+FactionRestriction=0
+
+;<-------------->
+
+[SoraColor.Light.94 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.94
+Secondary_R=237
+Secondary_G=228
+Secondary_B=231
+Primary_R=230
+Primary_G=155
+Primary_B=45
+FactionRestriction=0
+
+[SoraColor.Light.95 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.95
+Primary_R=131
+Primary_G=26
+Primary_B=43
+Secondary_R=237
+Secondary_G=228
+Secondary_B=231
+FactionRestriction=0
+
+[SoraColor.Light.96 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.96
+Secondary_R=230
+Secondary_G=155
+Secondary_B=45
+Primary_R=131
+Primary_G=26
+Primary_B=43
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.97 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.97
+Primary_R=63
+Primary_G=169
+Primary_B=227
+Secondary_R=189
+Secondary_G=128
+Secondary_B=59
+FactionRestriction=0
+
+[SoraColor.Light.98 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.98
+Secondary_R=250
+Secondary_G=39
+Secondary_B=82
+Primary_R=189
+Primary_G=128
+Primary_B=59
+FactionRestriction=0
+
+[SoraColor.Light.99 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.99
+Primary_R=250
+Primary_G=39
+Primary_B=82
+Secondary_R=63
+Secondary_G=169
+Secondary_B=227
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.100 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.100
+Secondary_R=63
+Secondary_G=169
+Secondary_B=227
+Primary_R=189
+Primary_G=128
+Primary_B=59
+FactionRestriction=0
+
+[SoraColor.Light.101 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.101
+Primary_R=250
+Primary_G=39
+Primary_B=82
+Secondary_R=189
+Secondary_G=128
+Secondary_B=59
+FactionRestriction=0
+
+[SoraColor.Light.102 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.102
+Secondary_R=250
+Secondary_G=39
+Secondary_B=82
+Primary_R=63
+Primary_G=169
+Primary_B=227
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.103 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.103
+Primary_R=41
+Primary_G=102
+Primary_B=97
+Secondary_R=102
+Secondary_G=205
+Secondary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.104 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.104
+Secondary_R=180
+Secondary_G=255
+Secondary_B=153
+Primary_R=69
+Primary_G=102
+Primary_B=61
+FactionRestriction=0
+
+[SoraColor.Light.105 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.105
+Primary_R=255
+Primary_G=87
+Primary_B=0
+Secondary_R=0
+Secondary_G=166
+Secondary_B=204
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.106 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.106
+Secondary_R=41
+Secondary_G=102
+Secondary_B=97
+Primary_R=102
+Primary_G=205
+Primary_B=255
+FactionRestriction=0
+
+[SoraColor.Light.107 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.107
+Primary_R=180
+Primary_G=255
+Primary_B=153
+Secondary_R=69
+Secondary_G=102
+Secondary_B=61
+FactionRestriction=0
+
+[SoraColor.Light.108 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.108
+Secondary_R=255
+Secondary_G=87
+Secondary_B=0
+Primary_R=0
+Primary_G=166
+Primary_B=204
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.109 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.109
+Primary_R=16
+Primary_G=186
+Primary_B=250
+Secondary_R=245
+Secondary_G=97
+Secondary_B=124
+FactionRestriction=0
+
+[SoraColor.Light.110 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.110
+Secondary_R=224
+Secondary_G=241
+Secondary_B=249
+Primary_R=38
+Primary_G=90
+Primary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.111 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.111
+Primary_R=204
+Primary_G=0
+Primary_B=24
+Secondary_R=77
+Secondary_G=24
+Secondary_B=8
+FactionRestriction=0
+;<-------------->
+[SoraColor.Light.112 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.112
+Secondary_R=16
+Secondary_G=186
+Secondary_B=250
+Primary_R=245
+Primary_G=97
+Primary_B=124
+FactionRestriction=0
+
+[SoraColor.Light.113 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.113
+Primary_R=224
+Primary_G=241
+Primary_B=249
+Secondary_R=38
+Secondary_G=90
+Secondary_B=128
+FactionRestriction=0
+
+[SoraColor.Light.114 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Light.114
+Secondary_R=204
+Secondary_G=0
+Secondary_B=24
+Primary_R=77
+Primary_G=24
+Primary_B=8
+FactionRestriction=0
+
+
+
+
+
+;.==============================================.
+;|==============================================|
+;|==============Dark - Decepticons==============|
+;|==============================================|
+;`==============================================`
+
+[SoraColor.Dark.01 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.01
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=255
+Secondary_G=128
+Secondary_B=0
+FactionRestriction=1
+
+[SoraColor.Dark.02 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.02
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=0
+Secondary_G=128
+Secondary_B=255
+FactionRestriction=1
+
+[SoraColor.Dark.03 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.03
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=128
+Secondary_G=0
+Secondary_B=255
+FactionRestriction=1
+
+[SoraColor.Dark.04 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.04
+Primary_R=255
+Primary_G=128
+Primary_B=0
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.05 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.05
+Primary_R=0
+Primary_G=128
+Primary_B=255
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.06 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.06
+Primary_R=128
+Primary_G=0
+Primary_B=255
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.07 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.07
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=128
+Secondary_G=255
+Secondary_B=0
+FactionRestriction=1
+
+[SoraColor.Dark.08 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.08
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=0
+Secondary_G=255
+Secondary_B=128
+FactionRestriction=1
+
+[SoraColor.Dark.09 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.09
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=255
+Secondary_G=0
+Secondary_B=128
+FactionRestriction=1
+
+[SoraColor.Dark.10 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.10
+Primary_R=128
+Primary_G=255
+Primary_B=0
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.11 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.11
+Primary_R=0
+Primary_G=255
+Primary_B=128
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.12 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.12
+Primary_R=255
+Primary_G=0
+Primary_B=128
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+
+[SoraColor.Dark.13 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.13
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=230
+Secondary_G=20
+Secondary_B=20
+FactionRestriction=1
+
+[SoraColor.Dark.14 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.14
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=20
+Secondary_G=230
+Secondary_B=20
+FactionRestriction=1
+
+[SoraColor.Dark.15 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.15
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=20
+Secondary_G=20
+Secondary_B=230
+FactionRestriction=1
+
+[SoraColor.Dark.16 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.16
+Primary_R=230
+Primary_G=20
+Primary_B=20
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.17 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.17
+Primary_R=20
+Primary_G=230
+Primary_B=20
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.18 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.18
+Primary_R=20
+Primary_G=20
+Primary_B=230
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.19 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.19
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=255
+Secondary_G=85
+Secondary_B=0
+FactionRestriction=1
+
+[SoraColor.Dark.20 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.20
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=0
+Secondary_G=85
+Secondary_B=255
+FactionRestriction=1
+
+[SoraColor.Dark.21 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.21
+Primary_R=17
+Primary_G=15
+Primary_B=21
+Secondary_R=230
+Secondary_G=230
+Secondary_B=0
+FactionRestriction=1
+
+[SoraColor.Dark.22 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.22
+Primary_R=255
+Primary_G=85
+Primary_B=0
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.23 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.23
+Primary_R=0
+Primary_G=85
+Primary_B=255
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.24 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.24
+Primary_R=230
+Primary_G=230
+Primary_B=0
+Secondary_R=17
+Secondary_G=15
+Secondary_B=21
+FactionRestriction=1
+
+;BotColor D-26
+
+[SoraColor.Dark.25 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.25
+Primary_R=29
+Primary_G=208
+Primary_B=29
+Secondary_R=107
+Secondary_G=9
+Secondary_B=64
+FactionRestriction=1
+
+;BotColor D-27
+
+[SoraColor.Dark.26 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.26
+Primary_R=186
+Primary_G=25
+Primary_B=25
+Secondary_R=120
+Secondary_G=35
+Secondary_B=188
+FactionRestriction=1
+
+;BotColor D-24
+
+[SoraColor.Dark.27 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.27
+Primary_R=145
+Primary_G=92
+Primary_B=45
+Secondary_R=205
+Secondary_G=103
+Secondary_B=255
+FactionRestriction=1
+
+;BotColor D-26
+
+[SoraColor.Dark.28 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.28
+Primary_R=107
+Primary_G=9
+Primary_B=64
+Secondary_R=29
+Secondary_G=208
+Secondary_B=29
+FactionRestriction=1
+
+;BotColor D-27
+
+[SoraColor.Dark.29 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.29
+Primary_R=120
+Primary_G=35
+Primary_B=188
+Secondary_R=186
+Secondary_G=25
+Secondary_B=25
+FactionRestriction=1
+
+;BotColor D-24
+
+[SoraColor.Dark.30 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.30
+Primary_R=205
+Primary_G=103
+Primary_B=255
+Secondary_R=145
+Secondary_G=92
+Secondary_B=45
+FactionRestriction=1
+
+;BotColor D-22
+
+[SoraColor.Dark.31 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.31
+Primary_R=235
+Primary_G=211
+Primary_B=57
+Secondary_R=97
+Secondary_G=0
+Secondary_B=34
+FactionRestriction=1
+
+;BotColor D-25
+
+[SoraColor.Dark.32 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.32
+Primary_R=255
+Primary_G=57
+Primary_B=0
+Secondary_R=21
+Secondary_G=53
+Secondary_B=21
+FactionRestriction=1
+
+;BotColor D-38
+
+[SoraColor.Dark.33 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.33
+Primary_R=255
+Primary_G=180
+Primary_B=39
+Secondary_R=90
+Secondary_G=19
+Secondary_B=125
+FactionRestriction=1
+
+;BotColor D-22
+
+[SoraColor.Dark.34 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.34
+Primary_R=97
+Primary_G=0
+Primary_B=34
+Secondary_R=235
+Secondary_G=211
+Secondary_B=57
+FactionRestriction=1
+
+;BotColor D-25
+
+[SoraColor.Dark.35 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.35
+Primary_R=21
+Primary_G=53
+Primary_B=21
+Secondary_R=255
+Secondary_G=57
+Secondary_B=0
+FactionRestriction=1
+
+;BotColor D-38
+
+[SoraColor.Dark.36 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.36
+Primary_R=90
+Primary_G=19
+Primary_B=125
+Secondary_R=255
+Secondary_G=180
+Secondary_B=39
+FactionRestriction=1
+
+;BotColor D-39
+
+[SoraColor.Dark.37 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.37
+Primary_R=174
+Primary_G=180
+Primary_B=39
+Secondary_R=39
+Secondary_G=13
+Secondary_B=83
+FactionRestriction=1
+
+;BotColor D-41
+
+[SoraColor.Dark.38 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.38
+Primary_R=211
+Primary_G=92
+Primary_B=26
+Secondary_R=27
+Secondary_G=24
+Secondary_B=42
+FactionRestriction=1
+
+;BotColor D-35
+
+[SoraColor.Dark.39 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.39
+Primary_R=130
+Primary_G=85
+Primary_B=147
+Secondary_R=12
+Secondary_G=25
+Secondary_B=12
+FactionRestriction=1
+
+;BotColor D-39
+
+[SoraColor.Dark.40 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.40
+Primary_R=39
+Primary_G=13
+Primary_B=83
+Secondary_R=174
+Secondary_G=180
+Secondary_B=39
+FactionRestriction=1
+
+;BotColor D-41
+
+[SoraColor.Dark.41 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.41
+Primary_R=27
+Primary_G=24
+Primary_B=42
+Secondary_R=211
+Secondary_G=92
+Secondary_B=26
+FactionRestriction=1
+
+;BotColor D-35
+
+[SoraColor.Dark.42 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.42
+Primary_R=12
+Primary_G=25
+Primary_B=12
+Secondary_R=130
+Secondary_G=85
+Secondary_B=147
+FactionRestriction=1
+
+;BotColor D-36
+
+[SoraColor.Dark.43 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.43
+Primary_R=130
+Primary_G=85
+Primary_B=64
+Secondary_R=15
+Secondary_G=42
+Secondary_B=15
+FactionRestriction=1
+
+;BotColor D-37
+
+[SoraColor.Dark.44 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.44
+Primary_R=255
+Primary_G=15
+Primary_B=154
+Secondary_R=0
+Secondary_G=15
+Secondary_B=58
+FactionRestriction=1
+
+;BotColor D-13
+
+[SoraColor.Dark.45 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.45
+Primary_R=86
+Primary_G=21
+Primary_B=21
+Secondary_R=27
+Secondary_G=44
+Secondary_B=64
+FactionRestriction=1
+
+;BotColor D-36
+
+[SoraColor.Dark.46 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.46
+Primary_R=15
+Primary_G=42
+Primary_B=15
+Secondary_R=130
+Secondary_G=85
+Secondary_B=64
+FactionRestriction=1
+
+;BotColor D-37
+
+[SoraColor.Dark.47 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.47
+Primary_R=0
+Primary_G=15
+Primary_B=58
+Secondary_R=255
+Secondary_G=15
+Secondary_B=154
+FactionRestriction=1
+
+;BotColor D-13
+
+[SoraColor.Dark.48 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.48
+Primary_R=27
+Primary_G=44
+Primary_B=64
+Secondary_R=86
+Secondary_G=21
+Secondary_B=21
+FactionRestriction=1
+
+[SoraColor.Dark.49 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.49
+Primary_R=92
+Primary_G=99
+Primary_B=115
+Secondary_R=80
+Secondary_G=3
+Secondary_B=127
+FactionRestriction=1
+
+[SoraColor.Dark.50 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.50
+Primary_R=92
+Primary_G=99
+Primary_B=115
+Secondary_R=3
+Secondary_G=127
+Secondary_B=80
+FactionRestriction=1
+
+[SoraColor.Dark.51 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.51
+Primary_R=92
+Primary_G=99
+Primary_B=115
+Secondary_R=127
+Secondary_G=80
+Secondary_B=3
+FactionRestriction=1
+
+[SoraColor.Dark.52 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.52
+Secondary_R=92
+Secondary_G=99
+Secondary_B=115
+Primary_R=80
+Primary_G=3
+Primary_B=127
+FactionRestriction=1
+
+[SoraColor.Dark.53 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.53
+Secondary_R=92
+Secondary_G=99
+Secondary_B=115
+Primary_R=3
+Primary_G=127
+Primary_B=80
+FactionRestriction=1
+
+[SoraColor.Dark.54 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.54
+Secondary_R=92
+Secondary_G=99
+Secondary_B=115
+Primary_R=127
+Primary_G=80
+Primary_B=3
+FactionRestriction=1
+
+;<-------------->
+[SoraColor.Dark.55 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.55
+Primary_R=140
+Primary_G=136
+Primary_B=28
+Secondary_R=213
+Secondary_G=77
+Secondary_B=143
+FactionRestriction=1
+
+[SoraColor.Dark.56 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.56
+Secondary_R=217
+Secondary_G=136
+Secondary_B=18
+Primary_R=3
+Primary_G=49
+Primary_B=62
+FactionRestriction=1
+
+[SoraColor.Dark.57 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.57
+Primary_R=99
+Primary_G=122
+Primary_B=16
+Secondary_R=68
+Secondary_G=50
+Secondary_B=108
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.58 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.58
+Secondary_R=140
+Secondary_G=136
+Secondary_B=28
+Primary_R=213
+Primary_G=77
+Primary_B=143
+FactionRestriction=1
+
+[SoraColor.Dark.59 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.59
+Primary_R=217
+Primary_G=136
+Primary_B=18
+Secondary_R=3
+Secondary_G=49
+Secondary_B=62
+FactionRestriction=1
+
+[SoraColor.Dark.60 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.60
+Secondary_R=99
+Secondary_G=122
+Secondary_B=16
+Primary_R=68
+Primary_G=50
+Primary_B=108
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.61 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.61
+Primary_R=245
+Primary_G=214
+Primary_B=124
+Secondary_R=32
+Secondary_G=83
+Secondary_B=74
+FactionRestriction=1
+
+[SoraColor.Dark.62 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.62
+Secondary_R=94
+Secondary_G=36
+Secondary_B=58
+Primary_R=245
+Primary_G=214
+Primary_B=124
+FactionRestriction=1
+
+[SoraColor.Dark.63 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.63
+Primary_R=32
+Primary_G=83
+Primary_B=74
+Secondary_R=94
+Secondary_G=36
+Secondary_B=58
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.64 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.64
+Secondary_R=245
+Secondary_G=214
+Secondary_B=124
+Primary_R=32
+Primary_G=83
+Primary_B=74
+FactionRestriction=1
+
+[SoraColor.Dark.65 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.65
+Primary_R=94
+Primary_G=36
+Primary_B=58
+Secondary_R=245
+Secondary_G=214
+Secondary_B=124
+FactionRestriction=1
+
+[SoraColor.Dark.66 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.66
+Secondary_R=32
+Secondary_G=83
+Secondary_B=74
+Primary_R=94
+Primary_G=36
+Primary_B=58
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.67 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.67
+Primary_R=6
+Primary_G=136
+Primary_B=142
+Secondary_R=127
+Secondary_G=84
+Secondary_B=18
+FactionRestriction=1
+
+[SoraColor.Dark.68 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.68
+Secondary_R=6
+Secondary_G=136
+Secondary_B=142
+Primary_R=93
+Primary_G=21
+Primary_B=25
+FactionRestriction=1
+
+[SoraColor.Dark.69 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.69
+Primary_R=10
+Primary_G=20
+Primary_B=32
+Secondary_R=126
+Secondary_G=32
+Secondary_B=7
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.70 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.70
+Secondary_R=6
+Secondary_G=136
+Secondary_B=142
+Primary_R=127
+Primary_G=84
+Primary_B=18
+FactionRestriction=1
+
+[SoraColor.Dark.71 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.71
+Primary_R=6
+Primary_G=136
+Primary_B=142
+Secondary_R=93
+Secondary_G=21
+Secondary_B=25
+FactionRestriction=1
+
+[SoraColor.Dark.72 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.72
+Secondary_R=10
+Secondary_G=20
+Secondary_B=32
+Primary_R=126
+Primary_G=32
+Primary_B=7
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.73 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.73
+Primary_R=104
+Primary_G=2
+Primary_B=23
+Secondary_R=55
+Secondary_G=33
+Secondary_B=116
+FactionRestriction=1
+
+[SoraColor.Dark.74 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.74
+Secondary_R=59
+Secondary_G=31
+Secondary_B=72
+Primary_R=77
+Primary_G=39
+Primary_B=10
+FactionRestriction=1
+
+[SoraColor.Dark.75 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.75
+Primary_R=79
+Primary_G=19
+Primary_B=31
+Secondary_R=59
+Secondary_G=31
+Secondary_B=72
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.76 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.76
+Secondary_R=104
+Secondary_G=2
+Secondary_B=23
+Primary_R=55
+Primary_G=33
+Primary_B=116
+FactionRestriction=1
+
+[SoraColor.Dark.77 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.77
+Primary_R=59
+Primary_G=31
+Primary_B=72
+Secondary_R=77
+Secondary_G=39
+Secondary_B=10
+FactionRestriction=1
+
+[SoraColor.Dark.78 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.78
+Secondary_R=79
+Secondary_G=19
+Secondary_B=31
+Primary_R=59
+Primary_G=31
+Primary_B=72
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.79 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.79
+Primary_R=24
+Primary_G=32
+Primary_B=69
+Secondary_R=101
+Secondary_G=16
+Secondary_B=39
+FactionRestriction=1
+
+[SoraColor.Dark.80 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.80
+Secondary_R=12
+Secondary_G=11
+Secondary_B=16
+Primary_R=69
+Primary_G=36
+Primary_B=5
+FactionRestriction=1
+
+[SoraColor.Dark.81 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.81
+Primary_R=119
+Primary_G=35
+Primary_B=105
+Secondary_R=81
+Secondary_G=47
+Secondary_B=18
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.82 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.82
+Secondary_R=24
+Secondary_G=32
+Secondary_B=69
+Primary_R=101
+Primary_G=16
+Primary_B=39
+FactionRestriction=1
+
+[SoraColor.Dark.83 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.83
+Primary_R=12
+Primary_G=11
+Primary_B=16
+Secondary_R=69
+Secondary_G=36
+Secondary_B=5
+FactionRestriction=1
+
+[SoraColor.Dark.84 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.84
+Secondary_R=119
+Secondary_G=35
+Secondary_B=105
+Primary_R=81
+Primary_G=47
+Primary_B=18
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.85 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.85
+Secondary_R=192
+Secondary_G=250
+Secondary_B=88
+Primary_R=48
+Primary_G=45
+Primary_B=150
+FactionRestriction=1
+
+[SoraColor.Dark.86 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.86
+Primary_R=192
+Primary_G=250
+Primary_B=88
+Secondary_R=5
+Secondary_G=104
+Secondary_B=123
+FactionRestriction=1
+
+[SoraColor.Dark.87 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.87
+Primary_R=14
+Primary_G=18
+Primary_B=19
+Secondary_R=192
+Secondary_G=250
+Secondary_B=88
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.88 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.88
+Primary_R=192
+Primary_G=250
+Primary_B=88
+Secondary_R=48
+Secondary_G=45
+Secondary_B=150
+FactionRestriction=1
+
+[SoraColor.Dark.89 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.89
+Secondary_R=192
+Secondary_G=250
+Secondary_B=88
+Primary_R=5
+Primary_G=104
+Primary_B=123
+FactionRestriction=1
+
+[SoraColor.Dark.90 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.90
+Secondary_R=14
+Secondary_G=18
+Secondary_B=19
+Primary_R=192
+Primary_G=250
+Primary_B=88
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.91 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.91
+Primary_R=48
+Primary_G=45
+Primary_B=150
+Secondary_R=5
+Secondary_G=104
+Secondary_B=123
+FactionRestriction=1
+
+[SoraColor.Dark.92 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.92
+Primary_R=5
+Primary_G=104
+Primary_B=123
+Secondary_R=14
+Secondary_G=18
+Secondary_B=19
+FactionRestriction=1
+
+[SoraColor.Dark.93 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.93
+Primary_R=14
+Primary_G=18
+Primary_B=19
+Secondary_R=48
+Secondary_G=45
+Secondary_B=150
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.94 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.94
+Secondary_R=48
+Secondary_G=45
+Secondary_B=150
+Primary_R=5
+Primary_G=104
+Primary_B=123
+FactionRestriction=1
+
+[SoraColor.Dark.95 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.95
+Secondary_R=5
+Secondary_G=104
+Secondary_B=123
+Primary_R=14
+Primary_G=18
+Primary_B=19
+FactionRestriction=1
+
+[SoraColor.Dark.96 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.96
+Secondary_R=14
+Secondary_G=18
+Secondary_B=19
+Primary_R=48
+Primary_G=45
+Primary_B=150
+FactionRestriction=1
+
+;<-------------->
+[SoraColor.Dark.97 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.97
+Primary_R=157
+Primary_G=77
+Primary_B=16
+Secondary_R=98
+Secondary_G=125
+Secondary_B=49
+FactionRestriction=1
+
+[SoraColor.Dark.98 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.98
+Primary_R=6
+Primary_G=136
+Primary_B=142
+Secondary_R=92
+Secondary_G=99
+Secondary_B=115
+FactionRestriction=1
+
+[SoraColor.Dark.99 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.99
+Primary_R=102
+Primary_G=41
+Primary_B=71
+Secondary_R=75
+Secondary_G=186
+Secondary_B=96
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.100 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.100
+Secondary_R=157
+Secondary_G=77
+Secondary_B=16
+Primary_R=98
+Primary_G=125
+Primary_B=49
+FactionRestriction=1
+
+[SoraColor.Dark.101 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.101
+Secondary_R=6
+Secondary_G=136
+Secondary_B=142
+Primary_R=92
+Primary_G=99
+Primary_B=115
+FactionRestriction=1
+
+[SoraColor.Dark.102 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.102
+Secondary_R=102
+Secondary_G=41
+Secondary_B=71
+Primary_R=75
+Primary_G=186
+Primary_B=96
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.103 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.103
+Primary_R=16
+Primary_G=130
+Primary_B=244
+Secondary_R=27
+Secondary_G=13
+Secondary_B=134
+FactionRestriction=1
+
+[SoraColor.Dark.104 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.104
+Secondary_R=173
+Secondary_G=3
+Secondary_B=91
+Primary_R=27
+Primary_G=13
+Primary_B=134
+FactionRestriction=1
+
+[SoraColor.Dark.105 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.105
+Primary_R=173
+Primary_G=3
+Primary_B=91
+Secondary_R=16
+Secondary_G=130
+Secondary_B=244
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.106 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.106
+Secondary_R=16
+Secondary_G=130
+Secondary_B=244
+Primary_R=27
+Primary_G=13
+Primary_B=134
+FactionRestriction=1
+
+[SoraColor.Dark.107 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.107
+Primary_R=173
+Primary_G=3
+Primary_B=91
+Secondary_R=27
+Secondary_G=13
+Secondary_B=134
+FactionRestriction=1
+
+[SoraColor.Dark.108 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.108
+Secondary_R=173
+Secondary_G=3
+Secondary_B=91
+Primary_R=16
+Primary_G=130
+Primary_B=244
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.109 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.109
+Primary_R=111
+Primary_G=7
+Primary_B=120
+Secondary_R=8
+Secondary_G=181
+Secondary_B=135
+FactionRestriction=1
+
+[SoraColor.Dark.110 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.110
+Secondary_R=80
+Secondary_G=3
+Secondary_B=127
+Primary_R=3
+Primary_G=127
+Primary_B=80
+FactionRestriction=1
+
+[SoraColor.Dark.111 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.111
+Primary_R=168
+Primary_G=37
+Primary_B=68
+Secondary_R=105
+Secondary_G=126
+Secondary_B=205
+FactionRestriction=1
+;<-------------->
+[SoraColor.Dark.112 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.112
+Secondary_R=111
+Secondary_G=7
+Secondary_B=120
+Primary_R=8
+Primary_G=181
+Primary_B=135
+FactionRestriction=1
+
+[SoraColor.Dark.113 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.113
+Primary_R=80
+Primary_G=3
+Primary_B=127
+Secondary_R=3
+Secondary_G=127
+Secondary_B=80
+FactionRestriction=1
+
+[SoraColor.Dark.114 TnDataProvider_ColorSwatch]
+UniqueId=SoraColor.Dark.114
+Secondary_R=168
+Secondary_G=37
+Secondary_B=68
+Primary_R=105
+Primary_G=126
+Primary_B=205
+FactionRestriction=1
+
+
+
+
+
+;.==============================================.
+;|==============================================|
+;|==============SoraAlt Colors End==============|
+;|==============================================|
+;`==============================================`
