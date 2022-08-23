@@ -1,5 +1,5 @@
 [-base-]
-tool                v:20220823
+tool.version        v:20220823
 
 [-mods-]
 Color.ReyaColors    v:20220823    https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/color.ReyaColors.focmod
