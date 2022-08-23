@@ -1,19 +1,16 @@
-tool: v:20220820 |<link>
-font: v:<date> |<link>
-
+[-base-]
+tool                v:20220823
 
 [-mods-]
-Color.ReyaColors v:20220820 |<link>
-Color.SoraColors v:20220820 |<link>
-Color.Vanilla v:20220820 |<link>
-Parts.Legacy v:20220820 |<link>
-Parts.SoraPlus v:20220820 |<link>
-Parts.Vanilla v:20220820 |<link>
-Level.Vanilla v:20220820 |<link>
-Level.10x v:20220820 |<link>
-Level.100x v:20220820 |<link>
-Level.MaxLevel v:20220820 |<link>
-Special.ClassUnlock v:20220820 |<link>
-Special.Invisible v:20220820 |<link>
-Special.DLC v:20220820 |<link>
-Special.EE v:20220820 |<link>
+Color.ReyaColors    v:20220823    https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/color.ReyaColors.focmod
+Color.SoraColors    v:20220823    https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/color.SoraColors.focmod
+Color.Vanilla       v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/color.Vanilla.focmod
+Parts.Legacy        v:20220823    https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/parts.Legacy.focmod
+Parts.SoraPlus      v:20220823    https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/parts.PlusSora.focmod
+Parts.Vanilla       v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/parts.Vanilla.focmod
+Level.Vanilla       v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/level.Vanilla.focmod
+Level.10x           v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/level.x10.focmod
+Level.100x          v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/level.x100.focmod
+Level.MaxLevel      v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/level.MaxLevels.focmod
+Special.ClassUnlock v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/special.ClassUnlock.focmod
+Special.Invisible   v:1.0         https://raw.githubusercontent.com/SoraHjort/ReEnergized-FOC-Customizer-Tool/main/mods/special.Invisible.focmod
