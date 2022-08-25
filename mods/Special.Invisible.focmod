@@ -1,0 +1,42 @@
+
+[InvisWheel TnDataProvider_Part]
+UniqueId=InvisWheel
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=
+
+[InvisHead TnDataProvider_Part]
+UniqueId=InvisHead
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=
+
+[InvisShoulder TnDataProvider_Part]
+UniqueId=InvisShoulder
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=
+
+[InvisArms TnDataProvider_Part]
+UniqueId=InvisArms
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=
+
+[InvisLegs TnDataProvider_Part]
+UniqueId=InvisLegs
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=
+
+[InvisWings TnDataProvider_Part]
+UniqueId=InvisWings
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=
+
+[InvisCannon TnDataProvider_Part]
+UniqueId=InvisCannon
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=

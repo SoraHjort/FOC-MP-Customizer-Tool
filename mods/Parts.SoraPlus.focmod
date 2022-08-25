@@ -1,0 +1,227 @@
+[Parts FOCCustomizer]
+Overwrite=False
+Require=Legacy
+
+;<====Sora's Custom Parts====>
+
+[SoraChest01 TnDataProvider_Part]
+UniqueId=SoraChest01
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Chest
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_Chest
+
+[SoraChest02 TnDataProvider_Part]
+UniqueId=SoraChest02
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_Chest
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Chest
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Wheel
+
+[SoraChest03 TnDataProvider_Part]
+UniqueId=SoraChest03
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Wing
+PartPaths=TR_Shockwave_VEH_p.Parts.VH_Shockwave_PART_Wing
+
+[SoraChest04 TnDataProvider_Part]
+UniqueId=SoraChest04
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_Chest
+PartPaths=TR_Hardshell_VEH_p.SkelMesh.VH_Hardshell_PART_Cannon
+
+[SoraChest05 TnDataProvider_Part]
+UniqueId=SoraChest05
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Chest
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+
+[SoraChest06 TnDataProvider_Part]
+UniqueId=SoraChest06
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+
+[SoraChest07 TnDataProvider_Part]
+UniqueId=SoraChest07
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+
+[SoraChest08 TnDataProvider_Part]
+UniqueId=SoraChest08
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Chest
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+
+[SoraChest09 TnDataProvider_Part]
+UniqueId=SoraChest09
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Chest
+
+[SoraChest11 TnDataProvider_Part]
+UniqueId=SoraChest11
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+
+[SoraChest10 TnDataProvider_Part]
+UniqueId=SoraChest10
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+
+[SoraChest13 TnDataProvider_Part]
+UniqueId=SoraChest13
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+
+;---------------
+
+[SoraHead01 TnDataProvider_Part]
+UniqueID=SoraHead01
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Head
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_Head
+
+[SoraHead02 TnDataProvider_Part]
+UniqueID=SoraHead02
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Head
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_Head
+
+[SoraHead03 TnDataProvider_Part]
+UniqueID=SoraHead03
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_Head
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_Head
+
+[SoraHead04 TnDataProvider_Part]
+UniqueID=SoraHead04
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Head
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Head
+
+[SoraHead05 TnDataProvider_Part]
+UniqueID=SoraHead05
+FriendlyName=I swear if this worked
+Description=Well this is also a test
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Head
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Head
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Head
+
+[SoraHead05b TnDataProvider_Part]
+UniqueID=SoraHead05b
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Sharpshot_ROBO_p.CharSkel.RB_Sharpshot_PART_Head
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Head
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Head
+
+[SoraHead06 TnDataProvider_Part]
+UniqueID=SoraHead06
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Sharpshot_ROBO_p.CharSkel.RB_Sharpshot_PART_Head
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Head
+
+[SoraHead07 TnDataProvider_Part]
+UniqueID=SoraHead07
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_Head
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Head
+;-------------
+
+[SoraArmUp01 TnDataProvider_Part]
+UniqueId=SoraArmUp01
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_CapL
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_CapR
+
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_CapL
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_CapR
+
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_CapL
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_CapR
+
+;PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_CapL
+;PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_CapR
+
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_CapL
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_CapR
+
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmUpL
+PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmUpR
+
+;PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_Wheel
+
+;---------------
+
+[SoraWings01 TnDataProvider_Part]
+UniqueId=SoraWings01
+SpecialtyRestriction=Scientist
+PartType=Wings
+
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Wing
+PartPaths=TR_StarScream_VEH_p.VH_Starscream_PART_Wing
+
+;PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Wing
+;PartPaths=TR_AirRaid_VEH_p.Parts.VH_AirRaid_PART_Wing
+
+;PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Wing
+;PartPaths=TR_Silverbolt_VEH_p.Parts.VH_Silverbolt_PART_Wing
+
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Wing
+PartPaths=TR_Shockwave_VEH_p.Parts.VH_Shockwave_PART_Wing
+
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Wing
+PartPaths=TR_Jetfire_VEH_p.Parts.VH_Jetfire_PART_Wing
+
+[SoraWings02 TnDataProvider_Part]
+UniqueId=SoraWings02
+SpecialtyRestriction=Scientist
+PartType=Wings
+
+PartPaths=TR_StarScream_VEH_p.VH_Starscream_PART_Wing
+
+;PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Wing
+;PartPaths=TR_AirRaid_VEH_p.Parts.VH_AirRaid_PART_Wing
+
+;PartPaths=TR_Silverbolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Wing
+;PartPaths=TR_Silverbolt_VEH_p.Parts.VH_Silverbolt_PART_Wing
+
+PartPaths=TR_Shockwave_VEH_p.Parts.VH_Shockwave_PART_Wing
+
+PartPaths=TR_Jetfire_VEH_p.Parts.VH_Jetfire_PART_Wing
+
+;----------

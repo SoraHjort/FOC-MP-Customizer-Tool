@@ -1,0 +1,2382 @@
+;<====Start of Vanilla Modification Block====>
+
+[ScoutArmorSet1 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet1
+PartsInSet=ScoutArmLo1,ScoutArmUp1,ScoutChest1,ScoutHead1,ScoutLegs1,ScoutWheels1,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo1 TnDataProvider_Part]
+UniqueId=ScoutArmLo1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_ArmLoR
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_ArmLoL
+;;SkillToApply=TransGame.TnSkillIncreaseMeleeDamageFromBehind
+
+[ScoutArmUp1 TnDataProvider_Part]
+UniqueId=ScoutArmUp1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_ArmUpR
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_ArmUpL
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_CapL
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_CapR
+;;SkillToApply=TransGame.TnSkillIncreaseFlashBangRadius
+
+[ScoutChest1 TnDataProvider_Part]
+UniqueId=ScoutChest1
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_Chest
+
+[ScoutHead1 TnDataProvider_Part]
+UniqueId=ScoutHead1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_Head
+
+[ScoutHead85 TnDataProvider_Part]
+UniqueId=ScoutHead85
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Cliffjumper_ROBO_p.CharSkel.RB_Cliffjumper_PART_Head
+
+[ScoutLegs1 TnDataProvider_Part]
+UniqueId=ScoutLegs1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_Legs
+
+[ScoutWheels1 TnDataProvider_Part]
+UniqueId=ScoutWheels1
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_BumbleBee_ROBO_p.CharSkel.RB_Bumblebee_PART_Wheel
+
+[ScoutArmorSet2 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet2
+PartsInSet=ScoutArmLo2,ScoutArmUp2,ScoutChest2,ScoutHead2,ScoutLegs2,ScoutWheels2,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo2 TnDataProvider_Part]
+UniqueId=ScoutArmLo2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_ArmLoL
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_ArmLoR
+
+[ScoutArmUp2 TnDataProvider_Part]
+UniqueId=ScoutArmUp2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_ArmUpL
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_ArmUpR
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_CapL
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_CapR
+
+[ScoutChest2 TnDataProvider_Part]
+UniqueId=ScoutChest2
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_Chest
+
+[ScoutHead2 TnDataProvider_Part]
+UniqueId=ScoutHead2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_Head
+
+[ScoutLegs2 TnDataProvider_Part]
+UniqueId=ScoutLegs2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_Legs
+
+[ScoutWheels2 TnDataProvider_Part]
+UniqueId=ScoutWheels2
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Breakdown_ROBO_p.CharSkel.RB_Breakdown_PART_Wheel
+
+[ScoutArmorSet4 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet4
+PartsInSet=ScoutArmLo4,ScoutArmUp4,ScoutChest4,ScoutHead4,ScoutLegs4,ScoutWheels4,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo4 TnDataProvider_Part]
+UniqueId=ScoutArmLo4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_ArmLoL
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_ArmLoR
+
+[ScoutArmUp4 TnDataProvider_Part]
+UniqueId=ScoutArmUp4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_ArmUpL
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_ArmUpR
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_CapL
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_CapR
+
+[ScoutChest4 TnDataProvider_Part]
+UniqueId=ScoutChest4
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_Chest
+
+[ScoutHead4 TnDataProvider_Part]
+UniqueId=ScoutHead4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_Head
+
+[ScoutLegs4 TnDataProvider_Part]
+UniqueId=ScoutLegs4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_Legs
+
+[ScoutWheels4 TnDataProvider_Part]
+UniqueId=ScoutWheels4
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Sideswipe_ROBO_p.CharSkel.RB_Sideswipe_PART_Wheel
+
+[ScoutArmorSet5 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet5
+PartsInSet=ScoutArmLo5,ScoutArmUp5,ScoutChest5,ScoutHead5,ScoutLegs5,ScoutWheels5,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo5 TnDataProvider_Part]
+UniqueId=ScoutArmLo5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_ArmLoL
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_ArmLoR
+
+[ScoutArmUp5 TnDataProvider_Part]
+UniqueId=ScoutArmUp5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_ArmUpL
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_ArmUpR
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_CapL
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_CapR
+
+[ScoutChest5 TnDataProvider_Part]
+UniqueId=ScoutChest5
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_Chest
+
+[ScoutHead5 TnDataProvider_Part]
+UniqueId=ScoutHead5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_Head
+
+[ScoutLegs5 TnDataProvider_Part]
+UniqueId=ScoutLegs5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_Legs
+
+[ScoutWheels5 TnDataProvider_Part]
+UniqueId=ScoutWheels5
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Deadend_ROBO_p.CharSkel.RB_Deadend_PART_Wheel
+
+[ScoutArmorSet6 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet6
+PartsInSet=ScoutArmLo6,ScoutArmUp6,ScoutChest6,ScoutHead6,ScoutLegs6,ScoutWheels6,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo6 TnDataProvider_Part]
+UniqueId=ScoutArmLo6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_ArmLoL
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_ArmLoR
+
+[ScoutArmUp6 TnDataProvider_Part]
+UniqueId=ScoutArmUp6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_ArmUpL
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_ArmUpR
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_CapL
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_CapR
+
+[ScoutChest6 TnDataProvider_Part]
+UniqueId=ScoutChest6
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_Chest
+
+[ScoutHead6 TnDataProvider_Part]
+UniqueId=ScoutHead6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_Head
+
+[ScoutLegs6 TnDataProvider_Part]
+UniqueId=ScoutLegs6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_Legs
+
+[ScoutWheels6 TnDataProvider_Part]
+UniqueId=ScoutWheels6
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Jazz_ROBO_p.CharSkel.RB_Jazz_PART_Wheel
+
+[ScoutArmorSet8 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet8
+PartsInSet=ScoutArmLo8,ScoutArmUp8,ScoutChest8,ScoutHead8,ScoutLegs8,ScoutWheels8,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo8 TnDataProvider_Part]
+UniqueId=ScoutArmLo8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_ArmLoL
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_ArmLoR
+
+[ScoutArmUp8 TnDataProvider_Part]
+UniqueId=ScoutArmUp8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_ArmUpL
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_ArmUpR
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_CapL
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_CapR
+
+[ScoutChest8 TnDataProvider_Part]
+UniqueId=ScoutChest8
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Chest
+
+[ScoutHead8 TnDataProvider_Part]
+UniqueId=ScoutHead8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Head
+
+[ScoutLegs8 TnDataProvider_Part]
+UniqueId=ScoutLegs8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Legs
+
+[ScoutWheels8 TnDataProvider_Part]
+UniqueId=ScoutWheels8
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Dragstrip_ROBO_p.CharSkel.RB_Dragstrip_PART_Wheel
+
+[ScoutHead9 TnDataProvider_Part]
+UniqueId=ScoutHead9
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_DinoHeads_ROBO_p.SkelMesh.RB_Snarl_PART_Head
+
+[ScoutHead11 TnDataProvider_Part]
+UniqueId=ScoutHead11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_BossHeads_ROBO_p.SkelMesh.RB_TrypticonHead_PART_Head
+
+[ScoutHead10 TnDataProvider_Part]
+UniqueId=ScoutHead10
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_InsecticonHeads_ROBO_p.SkelMesh.RB_HardshellInsect_PART_Head
+
+[ScoutHead12 TnDataProvider_Part]
+UniqueId=ScoutHead12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Crowns_ROBO_p.CharSkel.RB_CarCrown_PART_Head
+
+[ScoutArmorSet7 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet7
+PartsInSet=ScoutArmLo7,ScoutArmUp7,ScoutChest7,ScoutHead7,ScoutLegs7,ScoutWheels7,DecalSetNone
+SpecialtyRestriction=Scout
+
+[ScoutArmLo7 TnDataProvider_Part]
+UniqueId=ScoutArmLo7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_ArmLoL
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutArmUp7 TnDataProvider_Part]
+UniqueId=ScoutArmUp7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_ArmUpL
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_ArmUpR
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_CapL
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_CapR	
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutChest7 TnDataProvider_Part]
+UniqueId=ScoutChest7
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutHead7 TnDataProvider_Part]
+UniqueId=ScoutHead7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutLegs7 TnDataProvider_Part]
+UniqueId=ScoutLegs7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutWheels7 TnDataProvider_Part]
+UniqueId=ScoutWheels7
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Wheeljack_ROBO_p.CharSkel.RB_Wheeljack_PART_Wheel
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000050
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScoutArmorSet13 TnDataProvider_ArmorSet]
+UniqueId=ScoutArmorSet13
+PartsInSet=ScoutArmLo13,ScoutArmUp13,ScoutChest13,ScoutHead13,ScoutLegs13,ScoutWheels1,DecalSetNone
+SpecialtyRestriction=Scout
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScoutArmLo13 TnDataProvider_Part]
+UniqueId=ScoutArmLo13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_ArmLoL
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScoutArmUp13 TnDataProvider_Part]
+UniqueId=ScoutArmUp13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_ArmUpL
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_ArmUpR
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_CapL
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScoutChest13 TnDataProvider_Part]
+UniqueId=ScoutChest13
+SpecialtyRestriction=Scout
+PartType=Chest
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScoutHead13 TnDataProvider_Part]
+UniqueId=ScoutHead13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScoutLegs13 TnDataProvider_Part]
+UniqueId=ScoutLegs13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Snarl_ROBO_p.CharSkel.RB_Snarl_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00300000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistArmorSet3 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet3
+PartsInSet=ScientistArmLo3,ScientistArmUp3,ScientistChest3,ScientistHead3,ScientistLegs3,ScientistWings3,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo3 TnDataProvider_Part]
+UniqueId=ScientistArmLo3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_ArmLoL
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_ArmLoR
+
+[ScientistArmUp3 TnDataProvider_Part]
+UniqueId=ScientistArmUp3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_ArmUpL
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_ArmUpR
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_CapL
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_CapR
+
+[ScientistChest3 TnDataProvider_Part]
+UniqueId=ScientistChest3
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Chest
+
+[ScientistHead3 TnDataProvider_Part]
+UniqueId=ScientistHead3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Head
+
+[ScientistLegs3 TnDataProvider_Part]
+UniqueId=ScientistLegs3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Legs
+
+[ScientistWings3 TnDataProvider_Part]
+UniqueId=ScientistWings3
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_Jetfire_ROBO_p.CharSkel.RB_Jetfire_PART_Wing
+PartPaths=TR_Jetfire_VEH_p.Parts.VH_Jetfire_PART_Wing
+
+[ScientistArmorSet7 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet7
+PartsInSet=ScientistArmLo7,ScientistArmUp7,ScientistChest7,ScientistHead7,ScientistLegs7,ScientistWings7,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo7 TnDataProvider_Part]
+UniqueId=ScientistArmLo7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_ArmLoL
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_ArmLoR
+
+[ScientistArmUp7 TnDataProvider_Part]
+UniqueId=ScientistArmUp7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_ArmUpL
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_ArmUpR
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_CapL
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_CapR
+
+[ScientistChest7 TnDataProvider_Part]
+UniqueId=ScientistChest7
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Chest
+
+[ScientistHead7 TnDataProvider_Part]
+UniqueId=ScientistHead7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Head
+
+[ScientistLegs7 TnDataProvider_Part]
+UniqueId=ScientistLegs7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Starscream_ROBO_p.CharSkel.RB_Starscream_PART_Legs
+
+[ScientistWings7 TnDataProvider_Part]
+UniqueId=ScientistWings7
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_StarScream_ROBO_p.CharSkel.RB_Starscream_PART_Wing
+PartPaths=TR_StarScream_VEH_p.VH_Starscream_PART_Wing
+
+[ScientistArmorSet1 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet1
+PartsInSet=ScientistArmLo1,ScientistArmUp1,ScientistChest1,ScientistHead1,ScientistLegs1,ScientistWings1,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo1 TnDataProvider_Part]
+UniqueId=ScientistArmLo1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_ArmLoL
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_ArmLoR
+
+[ScientistArmUp1 TnDataProvider_Part]
+UniqueId=ScientistArmUp1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_ArmUpL
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_ArmUpR
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_CapL
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_CapR
+
+[ScientistChest1 TnDataProvider_Part]
+UniqueId=ScientistChest1
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Chest
+
+[ScientistHead1 TnDataProvider_Part]
+UniqueId=ScientistHead1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Head
+
+[ScientistLegs1 TnDataProvider_Part]
+UniqueId=ScientistLegs1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Legs
+
+[ScientistWings1 TnDataProvider_Part]
+UniqueId=ScientistWings1
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_AirRaid_ROBO_p.CharSkel.RB_AirRaid_PART_Wing
+PartPaths=TR_AirRaid_VEH_p.Parts.VH_AirRaid_PART_Wing
+
+[ScientistArmorSet2 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet2
+PartsInSet=ScientistArmLo2,ScientistArmUp2,ScientistChest2,ScientistHead2,ScientistLegs2,ScientistWings7,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo2 TnDataProvider_Part]
+UniqueId=ScientistArmLo2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_ArmLoL
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_ArmLoR
+
+[ScientistArmUp2 TnDataProvider_Part]
+UniqueId=ScientistArmUp2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_ArmUpL
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_ArmUpR
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_CapL
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_CapR
+
+[ScientistChest2 TnDataProvider_Part]
+UniqueId=ScientistChest2
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_Chest
+DisableWings=false
+
+[ScientistHead2 TnDataProvider_Part]
+UniqueId=ScientistHead2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_Head
+
+[ScientistLegs2 TnDataProvider_Part]
+UniqueId=ScientistLegs2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Vortex_ROBO_p.CharSkel.RB_Vortex_PART_Legs
+;UniqueId=ScientistWings2
+;SpecialtyRestriction=Scientist,Scout,Soldier,Leader
+;PartType=Wings
+
+[ScientistArmorSet4 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet4
+PartsInSet=ScientistArmLo4,ScientistArmUp4,ScientistChest4,ScientistHead4,ScientistLegs4,ScientistWings4,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo4 TnDataProvider_Part]
+UniqueId=ScientistArmLo4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmLoL
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmLoR
+
+[ScientistArmUp4 TnDataProvider_Part]
+UniqueId=ScientistArmUp4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmUpL
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_ArmUpR
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_SilverBolt_PART_CapL
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_SilverBolt_PART_CapR
+
+[ScientistChest4 TnDataProvider_Part]
+UniqueId=ScientistChest4
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Chest
+
+[ScientistHead4 TnDataProvider_Part]
+UniqueId=ScientistHead4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Head
+
+[ScientistLegs4 TnDataProvider_Part]
+UniqueId=ScientistLegs4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Legs
+
+[ScientistWings4 TnDataProvider_Part]
+UniqueId=ScientistWings4
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_SilverBolt_ROBO_p.CharSkel.RB_Silverbolt_PART_Wing
+PartPaths=TR_SilverBolt_VEH_p.Parts.VH_Silverbolt_PART_Wing
+
+[ScientistArmorSet5 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet5
+PartsInSet=ScientistArmLo5,ScientistArmUp5,ScientistChest5,ScientistHead5,ScientistLegs5,ScientistWings5,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo5 TnDataProvider_Part]
+UniqueId=ScientistArmLo5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_ArmLoL
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_ArmLoR
+
+[ScientistArmUp5 TnDataProvider_Part]
+UniqueId=ScientistArmUp5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_ArmUpL
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_ArmUpR
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_CapL
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_CapR
+
+[ScientistChest5 TnDataProvider_Part]
+UniqueId=ScientistChest5
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Chest
+
+[ScientistHead5 TnDataProvider_Part]
+UniqueId=ScientistHead5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Head
+
+[ScientistLegs5 TnDataProvider_Part]
+UniqueId=ScientistLegs5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Legs
+
+[ScientistWings5 TnDataProvider_Part]
+UniqueId=ScientistWings5
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_Shockwave_ROBO_p.CharSkel.RB_Shockwave_PART_Wing
+PartPaths=TR_Shockwave_VEH_p.Parts.VH_Shockwave_PART_Wing
+
+[ScientistHead8 TnDataProvider_Part]
+UniqueId=ScientistHead8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_DinoHeads_ROBO_p.SkelMesh.RB_Swoop_PART_Head
+
+[ScientistHead10 TnDataProvider_Part]
+UniqueId=ScientistHead10
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_BossHeads_ROBO_p.SkelMesh.RB_MetroplexHead_PART_Head
+
+[ScientistHead9 TnDataProvider_Part]
+UniqueId=ScientistHead9
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_InsecticonHeads_ROBO_p.SkelMesh.RB_SharpshotInsect_PART_Head
+
+[ScientistHead14 TnDataProvider_Part]
+UniqueId=ScientistHead14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Crowns_ROBO_p.CharSkel.RB_JetCrown_PART_Head
+
+[ScientistArmorSet6 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet6
+PartsInSet=ScientistArmLo6,ScientistArmUp6,ScientistChest6,ScientistHead6,ScientistLegs6,ScientistWings6,DecalSetNone
+SpecialtyRestriction=Scientist
+
+[ScientistArmLo6 TnDataProvider_Part]
+UniqueId=ScientistArmLo6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_ArmLoL
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistArmUp6 TnDataProvider_Part]
+UniqueId=ScientistArmUp6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_ArmUpL
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_ArmUpR
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_CapL
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistChest6 TnDataProvider_Part]
+UniqueId=ScientistChest6
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistHead6 TnDataProvider_Part]
+UniqueId=ScientistHead6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistLegs6 TnDataProvider_Part]
+UniqueId=ScientistLegs6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_Blastoff_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistWings6 TnDataProvider_Part]
+UniqueId=ScientistWings6
+SpecialtyRestriction=Scientist
+PartType=Wings
+PartPaths=TR_Blastoff_ROBO_p.CharSkel.RB_BlastoffWing_PART
+PartPaths=TR_Blastoff_VEH_p.VH_BlastoffWing_PART
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000042
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[ScientistArmorSet11 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet11
+PartsInSet=ScientistArmLo11,ScientistArmUp11,ScientistChest11,ScientistHead11,ScientistLegs11,ScientistWings7,DecalSetNone
+SpecialtyRestriction=Scientist
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmLo11 TnDataProvider_Part]
+UniqueId=ScientistArmLo11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_ArmLoL
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmUp11 TnDataProvider_Part]
+UniqueId=ScientistArmUp11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_ArmUpL
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_ArmUpR
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_CapL
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistChest11 TnDataProvider_Part]
+UniqueId=ScientistChest11
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_Chest
+DisableWings=true
+DisablePart=Wings
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistHead11 TnDataProvider_Part]
+UniqueId=ScientistHead11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistLegs11 TnDataProvider_Part]
+UniqueId=ScientistLegs11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_SharpShot_ROBO_p.CharSkel.RB_SharpShot_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00008100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmorSet12 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet12
+PartsInSet=ScientistArmLo12,ScientistArmUp12,ScientistChest12,ScientistHead12,ScientistLegs12,ScientistWings7,DecalSetNone
+SpecialtyRestriction=Scientist
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmLo12 TnDataProvider_Part]
+UniqueId=ScientistArmLo12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_ArmLoL
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmUp12 TnDataProvider_Part]
+UniqueId=ScientistArmUp12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_ArmUpL
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_ArmUpR
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_CapL
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistChest12 TnDataProvider_Part]
+UniqueId=ScientistChest12
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_Chest
+DisableWings=true
+DisablePart=Wings
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistHead12 TnDataProvider_Part]
+UniqueId=ScientistHead12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistLegs12 TnDataProvider_Part]
+UniqueId=ScientistLegs12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Kickback_ROBO_p.CharSkel.RB_Kickback_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00004100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[ScientistArmorSet13 TnDataProvider_ArmorSet]
+UniqueId=ScientistArmorSet13
+PartsInSet=ScientistArmLo13,ScientistArmUp13,ScientistChest13,ScientistHead13,ScientistLegs13,ScientistWings7,DecalSetNone
+SpecialtyRestriction=Scientist
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistArmLo13 TnDataProvider_Part]
+UniqueId=ScientistArmLo13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_ArmLoL
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistArmUp13 TnDataProvider_Part]
+UniqueId=ScientistArmUp13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_ArmUpL
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_ArmUpR
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_CapL
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistChest13 TnDataProvider_Part]
+UniqueId=ScientistChest13
+SpecialtyRestriction=Scientist
+PartType=Chest
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Chest
+DisableWings=true
+DisablePart=Wings
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistHead13 TnDataProvider_Part]
+UniqueId=ScientistHead13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[ScientistLegs13 TnDataProvider_Part]
+UniqueId=ScientistLegs13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Swoop_ROBO_p.CharSkel.RB_Swoop_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00120000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderArmorSet1 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet1
+PartsInSet=LeaderArmLo1,LeaderArmUp1,LeaderChest1,LeaderHead1,LeaderLegs1,LeaderWheels1,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo1 TnDataProvider_Part]
+UniqueId=LeaderArmLo1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_ArmLoL
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_ArmLoR
+
+[LeaderArmUp1 TnDataProvider_Part]
+UniqueId=LeaderArmUp1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_ArmUpL
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_ArmUpR
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_CapL
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_CapR
+
+[LeaderChest1 TnDataProvider_Part]
+UniqueId=LeaderChest1
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_Chest
+
+[LeaderHead1 TnDataProvider_Part]
+UniqueId=LeaderHead1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_Head
+
+[LeaderLegs1 TnDataProvider_Part]
+UniqueId=LeaderLegs1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_Legs
+
+[LeaderWheels1 TnDataProvider_Part]
+UniqueId=LeaderWheels1
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Swindle_ROBO_p.CharSkel.RB_Swindle_PART_Wheel
+MeshAttachmentSocket=Wheel
+
+[LeaderArmorSet7 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet7
+PartsInSet=LeaderArmLo7,LeaderArmUp7,LeaderChest7,LeaderHead7,LeaderLegs7,LeaderWheels7,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo7 TnDataProvider_Part]
+UniqueId=LeaderArmLo7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_ArmLoL
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_ArmLoR
+
+[LeaderArmUp7 TnDataProvider_Part]
+UniqueId=LeaderArmUp7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_ArmUpL
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_ArmUpR
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_CapL
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_CapR
+
+[LeaderChest7 TnDataProvider_Part]
+UniqueId=LeaderChest7
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_Chest
+
+[LeaderHead7 TnDataProvider_Part]
+UniqueId=LeaderHead7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_Head
+
+[LeaderLegs7 TnDataProvider_Part]
+UniqueId=LeaderLegs7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_Legs
+
+[LeaderWheels7 TnDataProvider_Part]
+UniqueId=LeaderWheels7
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_OptimusPrime_ROBO_p.CharSkel.RB_OptimusPrime_PART_Wheel
+
+[LeaderArmorSet2 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet2
+PartsInSet=LeaderArmLo2,LeaderArmUp2,LeaderChest2,LeaderHead2,LeaderLegs2,LeaderWheels2,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo2 TnDataProvider_Part]
+UniqueId=LeaderArmLo2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_ArmLoL
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_ArmLoR
+
+[LeaderArmUp2 TnDataProvider_Part]
+UniqueId=LeaderArmUp2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_ArmUpL
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_ArmUpR
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_CapL
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_CapR
+
+[LeaderChest2 TnDataProvider_Part]
+UniqueId=LeaderChest2
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_Chest
+
+[LeaderHead2 TnDataProvider_Part]
+UniqueId=LeaderHead2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_Head
+
+[LeaderLegs2 TnDataProvider_Part]
+UniqueId=LeaderLegs2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_Legs
+
+[LeaderWheels2 TnDataProvider_Part]
+UniqueId=LeaderWheels2
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Ratchet_ROBO_p.CharSkel.RB_Ratchet_PART_Wheel
+
+[LeaderArmorSet3 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet3
+PartsInSet=LeaderArmLo3,LeaderArmUp3,LeaderChest3,LeaderHead3,LeaderLegs3,LeaderWheels3,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo3 TnDataProvider_Part]
+UniqueId=LeaderArmLo3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_ArmLoL
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_ArmLoR
+
+[LeaderArmUp3 TnDataProvider_Part]
+UniqueId=LeaderArmUp3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_ArmUpL
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_ArmUpR
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_CapL
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_CapR
+
+[LeaderChest3 TnDataProvider_Part]
+UniqueId=LeaderChest3
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_Chest
+
+[LeaderHead3 TnDataProvider_Part]
+UniqueId=LeaderHead3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_Head
+
+[LeaderLegs3 TnDataProvider_Part]
+UniqueId=LeaderLegs3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_Legs
+
+[LeaderWheels3 TnDataProvider_Part]
+UniqueId=LeaderWheels3
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Ironhide_ROBO_p.CharSkel.RB_Ironhide_PART_Wheel
+
+[LeaderArmorSet4 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet4
+PartsInSet=LeaderArmLo4,LeaderArmUp4,LeaderChest4,LeaderHead4,LeaderLegs4,LeaderWheels4,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo4 TnDataProvider_Part]
+UniqueId=LeaderArmLo4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_ArmLoL
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_ArmLoR
+
+[LeaderArmUp4 TnDataProvider_Part]
+UniqueId=LeaderArmUp4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_ArmUpL
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_ArmUpR
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_CapL
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_CapR
+
+[LeaderChest4 TnDataProvider_Part]
+UniqueId=LeaderChest4
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_Chest
+
+[LeaderHead4 TnDataProvider_Part]
+UniqueId=LeaderHead4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_Head
+
+[LeaderLegs4 TnDataProvider_Part]
+UniqueId=LeaderLegs4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_Legs
+
+[LeaderWheels4 TnDataProvider_Part]
+UniqueId=LeaderWheels4
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Soundwave_ROBO_p.CharSkel.RB_Soundwave_PART_Wheel
+
+[LeaderArmorSet6 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet6
+PartsInSet=LeaderArmLo6,LeaderArmUp6,LeaderChest6,LeaderHead6,LeaderLegs6,LeaderWheels6,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo6 TnDataProvider_Part]
+UniqueId=LeaderArmLo6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_ArmLoL
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_ArmLoR
+
+[LeaderArmUp6 TnDataProvider_Part]
+UniqueId=LeaderArmUp6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_ArmUpL
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_ArmUpR
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_CapL
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_CapR
+
+[LeaderChest6 TnDataProvider_Part]
+UniqueId=LeaderChest6
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_Chest
+
+[LeaderHead6 TnDataProvider_Part]
+UniqueId=LeaderHead6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_Head
+
+[LeaderLegs6 TnDataProvider_Part]
+UniqueId=LeaderLegs6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_Legs
+
+[LeaderWheels6 TnDataProvider_Part]
+UniqueId=LeaderWheels6
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Onslaught_ROBO_p.CharSkel.RB_Onslaught_PART_Wheel
+
+[LeaderHead8 TnDataProvider_Part]
+UniqueId=LeaderHead8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_DinoHeads_ROBO_p.SkelMesh.RB_Gnash_PART_Head
+
+[LeaderHead10 TnDataProvider_Part]
+UniqueId=LeaderHead10
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_BossHeads_ROBO_p.SkelMesh.RB_BruticusHead_PART_Head
+
+[LeaderHead9 TnDataProvider_Part]
+UniqueId=LeaderHead9
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_InsecticonHeads_ROBO_p.SkelMesh.RB_KickbackInsect_PART_Head
+
+[LeaderHead11 TnDataProvider_Part]
+UniqueId=LeaderHead11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Crowns_ROBO_p.CharSkel.RB_TruckCrown_PART_Head
+
+[LeaderArmorSet5 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet5
+PartsInSet=LeaderArmLo5,LeaderArmUp5,LeaderChest5,LeaderHead5,LeaderLegs5,LeaderWheels5,DecalSetNone
+SpecialtyRestriction=Leader
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmLo5 TnDataProvider_Part]
+UniqueId=LeaderArmLo5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_ArmLoL
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmUp5 TnDataProvider_Part]
+UniqueId=LeaderArmUp5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_ArmUpL
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_ArmUpR
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_CapL
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderChest5 TnDataProvider_Part]
+UniqueId=LeaderChest5
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderHead5 TnDataProvider_Part]
+UniqueId=LeaderHead5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderLegs5 TnDataProvider_Part]
+UniqueId=LeaderLegs5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderWheels5 TnDataProvider_Part]
+UniqueId=LeaderWheels5
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_ZetaPrime_ROBO_p.CharSkel.RB_ZetaPrime_PART_Wheel
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000060
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmorSet12 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet12
+PartsInSet=LeaderArmLo12,LeaderArmUp12,LeaderChest12,LeaderHead12,LeaderLegs12,LeaderWheels12,DecalSetNone
+SpecialtyRestriction=Leader
+
+[LeaderArmLo12 TnDataProvider_Part]
+UniqueId=LeaderArmLo12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_ArmLoL
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderArmUp12 TnDataProvider_Part]
+UniqueId=LeaderArmUp12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_ArmUpL
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_ArmUpR
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_CapL
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderChest12 TnDataProvider_Part]
+UniqueId=LeaderChest12
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderHead12 TnDataProvider_Part]
+UniqueId=LeaderHead12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderLegs12 TnDataProvider_Part]
+UniqueId=LeaderLegs12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderWheels12 TnDataProvider_Part]
+UniqueId=LeaderWheels12
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_OptimusG1_ROBO_p.CharSkel.RB_OptimusG1_PART_Wheel
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00001100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderArmorSet13 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet13
+PartsInSet=LeaderArmLo13,LeaderArmUp13,LeaderChest13,LeaderHead13,LeaderLegs13,LeaderWheels13,DecalSetNone
+SpecialtyRestriction=Leader
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmLo13 TnDataProvider_Part]
+UniqueId=LeaderArmLo13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_ArmLoL
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmUp13 TnDataProvider_Part]
+UniqueId=LeaderArmUp13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_ArmUpL
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_ArmUpR
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_CapL
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderChest13 TnDataProvider_Part]
+UniqueId=LeaderChest13
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderHead13 TnDataProvider_Part]
+UniqueId=LeaderHead13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderLegs13 TnDataProvider_Part]
+UniqueId=LeaderLegs13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderWheels13 TnDataProvider_Part]
+UniqueId=LeaderWheels13
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_UltraMagnus_ROBO_p.CharSkel.RB_UltraMagnus_PART_Wheel
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000048
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[LeaderArmorSet14 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet14
+PartsInSet=LeaderArmLo14,LeaderArmUp14,LeaderChest14,LeaderHead14,LeaderLegs14,LeaderWheels14,DecalSetNone
+SpecialtyRestriction=Leader
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderArmLo14 TnDataProvider_Part]
+UniqueId=LeaderArmLo14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_ArmLoL
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderArmUp14 TnDataProvider_Part]
+UniqueId=LeaderArmUp14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_ArmUpL
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_ArmUpR
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_CapL
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderChest14 TnDataProvider_Part]
+UniqueId=LeaderChest14
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderHead14 TnDataProvider_Part]
+UniqueId=LeaderHead14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderLegs14 TnDataProvider_Part]
+UniqueId=LeaderLegs14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderWheels14 TnDataProvider_Part]
+UniqueId=LeaderWheels14
+SpecialtyRestriction=Scout,Leader
+PartType=Wheels
+PartPaths=TR_Hound_ROBO_p.CharSkel.RB_Hound_PART_Wheel
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[LeaderArmorSet15 TnDataProvider_ArmorSet]
+UniqueId=LeaderArmorSet15
+PartsInSet=LeaderArmLo15,LeaderArmUp15,LeaderChest15,LeaderHead15,LeaderLegs15,LeaderWheels1,DecalSetNone
+SpecialtyRestriction=Leader
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00500000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderArmLo15 TnDataProvider_Part]
+UniqueId=LeaderArmLo15
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_ArmLoL
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00500000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderArmUp15 TnDataProvider_Part]
+UniqueId=LeaderArmUp15
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_ArmUpL
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_ArmUpR
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_CapL
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00500000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderChest15 TnDataProvider_Part]
+UniqueId=LeaderChest15
+SpecialtyRestriction=Leader
+PartType=Chest
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00500000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderHead15 TnDataProvider_Part]
+UniqueId=LeaderHead15
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00500000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[LeaderLegs15 TnDataProvider_Part]
+UniqueId=LeaderLegs15
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Slug_ROBO_p.CharSkel.RB_Slug_PART_Legs
+
+[SoldierArmorSet1 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet1
+PartsInSet=SoldierArmLo1,SoldierArmUp1,SoldierChest1,SoldierHead1,SoldierLegs1,SoldierCannon1,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo1 TnDataProvider_Part]
+UniqueId=SoldierArmLo1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_ArmLoL
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_ArmLoR
+
+[SoldierArmUp1 TnDataProvider_Part]
+UniqueId=SoldierArmUp1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_ArmUpL
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_ArmUpR
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_CapL
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_CapR
+
+[SoldierChest1 TnDataProvider_Part]
+UniqueId=SoldierChest1
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_Chest
+
+[SoldierHead1 TnDataProvider_Part]
+UniqueId=SoldierHead1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_Head
+
+[SoldierLegs1 TnDataProvider_Part]
+UniqueId=SoldierLegs1
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_MegatronWFC2_ROBO_p.CharSkel.RB_MegatronWFC2_PART_Legs
+
+[SoldierCannon1 TnDataProvider_Part]
+UniqueId=SoldierCannon1
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_MegatronWFC2_VEH_p.SkelMesh.RB_Megatron_PART_Cannon
+
+[SoldierArmorSet3 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet3
+PartsInSet=SoldierArmLo3,SoldierArmUp3,SoldierChest3,SoldierHead3,SoldierLegs3,SoldierCannon3,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo3 TnDataProvider_Part]
+UniqueId=SoldierArmLo3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_ArmLoL
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_ArmLoR
+
+[SoldierArmUp3 TnDataProvider_Part]
+UniqueId=SoldierArmUp3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_ArmUpL
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_ArmUpR
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_CapL
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_CapR
+
+[SoldierChest3 TnDataProvider_Part]
+UniqueId=SoldierChest3
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_Chest
+
+[SoldierHead3 TnDataProvider_Part]
+UniqueId=SoldierHead3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_Head
+
+[SoldierLegs3 TnDataProvider_Part]
+UniqueId=SoldierLegs3
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Warpath_ROBO_p.CharSkel.RB_Warpath_PART_Legs
+
+[SoldierCannon3 TnDataProvider_Part]
+UniqueId=SoldierCannon3
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Warpath_VEH_p.SkelMesh.RB_Warpath_PART_Cannon
+
+[SoldierArmorSet2 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet2
+PartsInSet=SoldierArmLo2,SoldierArmUp2,SoldierChest2,SoldierHead2,SoldierLegs2,SoldierCannon2,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo2 TnDataProvider_Part]
+UniqueId=SoldierArmLo2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_ArmLoL
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_ArmLoR
+
+[SoldierArmUp2 TnDataProvider_Part]
+UniqueId=SoldierArmUp2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_ArmUpL
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_ArmUpR
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_CapL
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_CapR
+
+[SoldierChest2 TnDataProvider_Part]
+UniqueId=SoldierChest2
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_Chest
+
+[SoldierHead2 TnDataProvider_Part]
+UniqueId=SoldierHead2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_Head
+
+[SoldierLegs2 TnDataProvider_Part]
+UniqueId=SoldierLegs2
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Brawl_ROBO_p.CharSkel.RB_Brawl_PART_Legs
+
+[SoldierCannon2 TnDataProvider_Part]
+UniqueId=SoldierCannon2
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Brawl_VEH_p.SkelMesh.RB_Brawl_PART_Cannon
+
+[SoldierArmorSet4 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet4
+PartsInSet=SoldierArmLo4,SoldierArmUp4,SoldierChest4,SoldierHead4,SoldierLegs4,SoldierCannon4,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo4 TnDataProvider_Part]
+UniqueId=SoldierArmLo4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_ArmLoL
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_ArmLoR
+
+[SoldierArmUp4 TnDataProvider_Part]
+UniqueId=SoldierArmUp4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_ArmUpL
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_ArmUpR
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_CapL
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_CapR
+
+[SoldierChest4 TnDataProvider_Part]
+UniqueId=SoldierChest4
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_Chest
+
+[SoldierHead4 TnDataProvider_Part]
+UniqueId=SoldierHead4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_Head
+
+[SoldierLegs4 TnDataProvider_Part]
+UniqueId=SoldierLegs4
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Scattershot_ROBO_p.CharSkel.RB_Scattershot_PART_Legs
+
+[SoldierCannon4 TnDataProvider_Part]
+UniqueId=SoldierCannon4
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Scattershot_VEH_p.SkelMesh.RB_Scattershot_PART_Cannon
+
+[SoldierArmorSet5 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet5
+PartsInSet=SoldierArmLo5,SoldierArmUp5,SoldierChest5,SoldierHead5,SoldierLegs5,SoldierCannon5,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo5 TnDataProvider_Part]
+UniqueId=SoldierArmLo5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_ArmLoL
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_ArmLoR
+
+[SoldierArmUp5 TnDataProvider_Part]
+UniqueId=SoldierArmUp5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_ArmUpL
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_ArmUpR
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_CapL
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_CapR
+
+[SoldierChest5 TnDataProvider_Part]
+UniqueId=SoldierChest5
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_Chest
+
+[SoldierHead5 TnDataProvider_Part]
+UniqueId=SoldierHead5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_Head
+
+[SoldierLegs5 TnDataProvider_Part]
+UniqueId=SoldierLegs5
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Demolishor_ROBO_p.CharSkel.RB_Demolishor_PART_Legs
+
+[SoldierCannon5 TnDataProvider_Part]
+UniqueId=SoldierCannon5
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Demolishor_VEH_p.SkelMesh.RB_Demolishor_PART_Cannon
+
+[SoldierArmorSet7 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet7
+PartsInSet=SoldierArmLo7,SoldierArmUp7,SoldierChest7,SoldierHead7,SoldierLegs7,SoldierCannon7,DecalSetNone
+SpecialtyRestriction=Soldier
+
+[SoldierArmLo7 TnDataProvider_Part]
+UniqueId=SoldierArmLo7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_ArmLoL
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_ArmLoR
+
+[SoldierArmUp7 TnDataProvider_Part]
+UniqueId=SoldierArmUp7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_ArmUpL
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_ArmUpR
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_CapL
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_CapR
+
+[SoldierChest7 TnDataProvider_Part]
+UniqueId=SoldierChest7
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_Chest
+
+[SoldierHead7 TnDataProvider_Part]
+UniqueId=SoldierHead7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_Head
+
+[SoldierLegs7 TnDataProvider_Part]
+UniqueId=SoldierLegs7
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Quake_ROBO_p.CharSkel.RB_Quake_PART_Legs
+
+[SoldierCannon7 TnDataProvider_Part]
+UniqueId=SoldierCannon7
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Quake_VEH_p.SkelMesh.RB_Quake_PART_Cannon
+
+[SoldierHead8 TnDataProvider_Part]
+UniqueId=SoldierHead8
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_DinoHeads_ROBO_p.SkelMesh.RB_Grimlock_PART_Head
+
+[SoldierHead11 TnDataProvider_Part]
+UniqueId=SoldierHead11
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_BossHeads_ROBO_p.SkelMesh.RB_TitanHead_PART_Head
+
+[SoldierHead10 TnDataProvider_Part]
+UniqueId=SoldierHead10
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_InsecticonHeads_ROBO_p.SkelMesh.RB_HardBackInsect_PART_Head
+
+[SoldierHead13 TnDataProvider_Part]
+UniqueId=SoldierHead13
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Crowns_ROBO_p.CharSkel.RB_TankCrown_PART_Head
+
+[SoldierArmorSet6 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet6
+PartsInSet=SoldierArmLo6,SoldierArmUp6,SoldierChest6,SoldierHead6,SoldierLegs6,SoldierCannon6,DecalSetNone
+SpecialtyRestriction=Soldier
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierArmLo6 TnDataProvider_Part]
+UniqueId=SoldierArmLo6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_ArmLoL
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierArmUp6 TnDataProvider_Part]
+UniqueId=SoldierArmUp6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_ArmUpL
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_ArmUpR
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_CapL
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierChest6 TnDataProvider_Part]
+UniqueId=SoldierChest6
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierHead6 TnDataProvider_Part]
+UniqueId=SoldierHead6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierLegs6 TnDataProvider_Part]
+UniqueId=SoldierLegs6
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Perceptor_ROBO_p.CharSkel.RB_Perceptor_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierCannon6 TnDataProvider_Part]
+UniqueId=SoldierCannon6
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Perceptor_VEH_p.SkelMesh.RB_Perceptor_PART_Cannon
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00000044
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000001
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000001
+DLCSteamAppIdToBuy=213153
+
+[SoldierArmorSet12 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet12
+PartsInSet=SoldierArmLo12,SoldierArmUp12,SoldierChest12,SoldierHead12,SoldierLegs12,SoldierCannon12,DecalSetNone
+SpecialtyRestriction=Soldier
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierArmLo12 TnDataProvider_Part]
+UniqueId=SoldierArmLo12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_ArmLoL
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierArmUp12 TnDataProvider_Part]
+UniqueId=SoldierArmUp12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_ArmUpL
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_ArmUpR
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_CapL
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierChest12 TnDataProvider_Part]
+UniqueId=SoldierChest12
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierHead12 TnDataProvider_Part]
+UniqueId=SoldierHead12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierLegs12 TnDataProvider_Part]
+UniqueId=SoldierLegs12
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Hardshell_ROBO_p.CharSkel.RB_Hardshell_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierCannon12 TnDataProvider_Part]
+UniqueId=SoldierCannon12
+SpecialtyRestriction=Soldier
+PartType=Cannon
+PartPaths=TR_Hardshell_VEH_p.SkelMesh.VH_Hardshell_PART_Cannon
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00010100
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000003
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000003
+DLCSteamAppIdToBuy=213155
+
+[SoldierArmorSet14 TnDataProvider_ArmorSet]
+UniqueId=SoldierArmorSet14
+PartsInSet=SoldierArmLo14,SoldierArmUp14,SoldierChest14,SoldierHead14,SoldierLegs14,SoldierCannon1,DecalSetNone
+SpecialtyRestriction=Soldier
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[SoldierArmLo14 TnDataProvider_Part]
+UniqueId=SoldierArmLo14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmLo
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_ArmLoL
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_ArmLoR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[SoldierArmUp14 TnDataProvider_Part]
+UniqueId=SoldierArmUp14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=ArmUp
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_ArmUpL
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_ArmUpR
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_CapL
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_CapR
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[SoldierChest14 TnDataProvider_Part]
+UniqueId=SoldierChest14
+SpecialtyRestriction=Soldier
+PartType=Chest
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_Chest
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[SoldierHead14 TnDataProvider_Part]
+UniqueId=SoldierHead14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Head
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_Head
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[SoldierLegs14 TnDataProvider_Part]
+UniqueId=SoldierLegs14
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=Legs
+PartPaths=TR_Grimlock_ROBO_p.CharSkel.RB_Grimlock_PART_Legs
+LockedForDLC=false
+HiddenForDLC=false
+DLCCategory=0x00900000
+PS3DLCProductIdNa=UP0002-BLUS30681_00-TFOCNADLC0000002
+PS3DLCProductIdEu=EP0002-BLES01153_00-TFOCEUDLC0000002
+DLCSteamAppIdToBuy=213154
+
+[DecalSetNone TnDataProvider_Part]
+UniqueId=DecalSetNone
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSetNone_PART
+
+[DecalSet01 TnDataProvider_Part]
+UniqueId=DecalSet01
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet01_PART
+RequiresCurrency=400
+
+[DecalSet02 TnDataProvider_Part]
+UniqueId=DecalSet02
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet02_PART
+RequiresCurrency=400
+
+[DecalSet03 TnDataProvider_Part]
+UniqueId=DecalSet03
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet03_PART
+RequiresCurrency=400
+
+[DecalSet04 TnDataProvider_Part]
+UniqueId=DecalSet04
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet04_PART
+RequiresCurrency=400
+
+[DecalSet05 TnDataProvider_Part]
+UniqueId=DecalSet05
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet05_PART
+RequiresCurrency=400
+
+[DecalSet06 TnDataProvider_Part]
+UniqueId=DecalSet06
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet06_PART
+RequiresCurrency=400
+
+[DecalSet07 TnDataProvider_Part]
+UniqueId=DecalSet07
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet07_PART
+RequiresCurrency=400
+
+[DecalSet08 TnDataProvider_Part]
+UniqueId=DecalSet08
+SpecialtyRestriction=Scout,Leader,Soldier,Scientist
+PartType=DecalSet
+PartPaths=TR_CharacterCustomDecals_p.DecalSet08_PART
+RequiresCurrency=400
+
+;<====End of Vanilla Modifications====>
